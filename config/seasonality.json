@@ -1,0 +1,44 @@
+{
+    "months": {
+        "1": {
+            "Electronics": 1.1,
+            "Fashion": 0.9,
+            "Groceries": 1.0,
+            "Fitness": 2.0
+        },
+        "3": {
+            "Electronics": 1.3,
+            "Fashion": 1.0,
+            "Groceries": 1.0,
+            "Home Appliances": 1.2
+        },
+        "4": {
+            "Home Appliances": 2.5,
+            "Electronics": 1.2
+        },
+        "6": {
+            "Stationery": 2.2,
+            "Fashion": 1.0
+        },
+        "7": {
+            "Rainwear": 2.5,
+            "Fashion": 1.2
+        },
+        "10": {
+            "Electronics": 2.5,
+            "Fashion": 2.0
+        },
+        "11": {
+            "Electronics": 3.0,
+            "Fashion": 2.2
+        },
+        "12": {
+            "Fashion": 1.8,
+            "Electronics": 1.5
+        }
+    },
+
+    "weekend_multiplier": 1.4,
+
+    "salary_day_multiplier": 1.8
+}

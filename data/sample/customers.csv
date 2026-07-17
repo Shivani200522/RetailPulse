@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,age,occupation,monthly_income,marital_status,city,state,segment,preferred_category,preferred_payment,loyalty_score
+CUS0001,Aisha,Sharma,Male,30,Software Engineer,105310,Married,Chennai,Tamil Nadu,New,Electronics,Cash On Delivery,25
+CUS0002,Sneha,Sharma,Male,42,Doctor,208742,Married,Delhi,Delhi,Regular,Home Appliances,UPI,100
+CUS0003,Kiran,Verma,Female,36,Government Employee,145156,Single,Pune,Maharashtra,New,Groceries,Cash On Delivery,97
+CUS0004,Arjun,Sharma,Male,20,Student,33340,Married,Mumbai,Maharashtra,Regular,Home Appliances,Cash On Delivery,40
+CUS0005,Aisha,Singh,Female,21,Student,26286,Single,Hyderabad,Telangana,New,Fashion,Credit Card,72
+CUS0006,Sneha,Reddy,Male,18,Student,34602,Single,Bangalore,Karnataka,Premium,Electronics,UPI,85
+CUS0007,Rohit,Kumar,Female,51,Homemaker,82902,Single,Hyderabad,Telangana,Premium,Electronics,UPI,24
+CUS0008,Neha,Joshi,Male,43,Government Employee,227733,Single,Chennai,Tamil Nadu,Premium,Skincare,Credit Card,9
+CUS0009,Sneha,Patel,Male,42,Doctor,146286,Married,Delhi,Delhi,Regular,Groceries,UPI,4
+CUS0010,Vikram,Reddy,Male,24,Software Engineer,95940,Married,Delhi,Delhi,New,Home Appliances,Cash On Delivery,41
+CUS0011,Kiran,Sharma,Male,57,Homemaker,96265,Married,Delhi,Delhi,Regular,Fashion,Debit Card,55
+CUS0012,Neha,Sharma,Female,54,Homemaker,63289,Married,Chennai,Tamil Nadu,Premium,Groceries,Debit Card,2
+CUS0013,Rohit,Joshi,Male,54,Homemaker,49733,Married,Pune,Maharashtra,Regular,Fashion,Debit Card,31
+CUS0014,Arjun,Singh,Female,52,Business Owner,114783,Married,Mumbai,Maharashtra,Regular,Fashion,UPI,20
+CUS0015,Vikram,Iyer,Female,32,Software Engineer,91493,Married,Chennai,Tamil Nadu,Premium,Electronics,Debit Card,9
+CUS0016,Vikram,Kumar,Female,41,Government Employee,122809,Married,Mumbai,Maharashtra,Regular,Fashion,Credit Card,25
+CUS0017,Priya,Patel,Female,24,Teacher,34195,Single,Delhi,Delhi,Regular,Skincare,UPI,91
+CUS0018,Priya,Joshi,Male,35,Sales Executive,49365,Married,Pune,Maharashtra,Premium,Groceries,Credit Card,100
+CUS0019,Arjun,Kumar,Female,59,Business Owner,25610,Married,Delhi,Delhi,New,Groceries,Debit Card,72
+CUS0020,Rahul,Verma,Female,29,Teacher,34030,Single,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,100
+CUS0021,Vikram,Nair,Female,50,Doctor,124048,Married,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,28
+CUS0022,Priya,Iyer,Female,40,Doctor,53607,Single,Pune,Maharashtra,Regular,Home Appliances,Cash On Delivery,73
+CUS0023,Aisha,Joshi,Female,58,Homemaker,99714,Married,Pune,Maharashtra,Premium,Skincare,Debit Card,6
+CUS0024,Ananya,Kumar,Male,35,Software Engineer,107317,Married,Delhi,Delhi,Regular,Skincare,Debit Card,7
+CUS0025,Aisha,Gupta,Male,54,Business Owner,46869,Married,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,20
+CUS0026,Ananya,Verma,Male,34,Sales Executive,86145,Married,Pune,Maharashtra,Regular,Home Appliances,Credit Card,99
+CUS0027,Aisha,Gupta,Female,51,Business Owner,29241,Married,Pune,Maharashtra,Regular,Fitness,Debit Card,51
+CUS0028,Ananya,Iyer,Female,42,Business Owner,63927,Married,Hyderabad,Telangana,Premium,Home Appliances,Credit Card,5
+CUS0029,Neha,Patel,Male,34,Teacher,49758,Married,Pune,Maharashtra,New,Fitness,Credit Card,82
+CUS0030,Ananya,Sharma,Male,55,Homemaker,122393,Married,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,82
+CUS0031,Kiran,Joshi,Female,41,Business Owner,222017,Married,Delhi,Delhi,Premium,Fitness,Credit Card,12
+CUS0032,Aisha,Sharma,Female,43,Government Employee,155233,Single,Pune,Maharashtra,Regular,Fashion,Credit Card,48
+CUS0033,Neha,Kumar,Female,36,Government Employee,76415,Single,Hyderabad,Telangana,New,Fashion,Credit Card,53
+CUS0034,Neha,Joshi,Female,58,Business Owner,97624,Single,Pune,Maharashtra,New,Home Appliances,Credit Card,23
+CUS0035,Rohit,Gupta,Female,23,Student,20598,Married,Pune,Maharashtra,New,Electronics,Credit Card,4
+CUS0036,Kiran,Joshi,Female,30,Teacher,53370,Married,Delhi,Delhi,Regular,Electronics,Credit Card,28
+CUS0037,Rahul,Reddy,Male,43,Government Employee,135245,Single,Hyderabad,Telangana,Regular,Fitness,Debit Card,97
+CUS0038,Rahul,Verma,Male,45,Business Owner,230532,Married,Mumbai,Maharashtra,Regular,Fashion,Debit Card,70
+CUS0039,Ananya,Verma,Female,36,Business Owner,127118,Single,Mumbai,Maharashtra,Regular,Home Appliances,Credit Card,18
+CUS0040,Rahul,Kumar,Female,36,Business Owner,112223,Single,Bangalore,Karnataka,Premium,Electronics,UPI,4
+CUS0041,Neha,Gupta,Male,46,Doctor,83289,Married,Delhi,Delhi,Regular,Groceries,Debit Card,39
+CUS0042,Vikram,Nair,Female,41,Government Employee,164913,Married,Hyderabad,Telangana,Regular,Electronics,Cash On Delivery,58
+CUS0043,Arjun,Reddy,Female,58,Business Owner,148676,Single,Pune,Maharashtra,New,Home Appliances,UPI,55
+CUS0044,Priya,Gupta,Female,28,Sales Executive,47913,Married,Hyderabad,Telangana,New,Skincare,Debit Card,51
+CUS0045,Kiran,Sharma,Male,31,Software Engineer,101135,Married,Bangalore,Karnataka,New,Fitness,Cash On Delivery,5
+CUS0046,Sneha,Verma,Male,40,Doctor,55825,Married,Hyderabad,Telangana,New,Home Appliances,Cash On Delivery,39
+CUS0047,Rahul,Verma,Female,37,Government Employee,221126,Married,Bangalore,Karnataka,Regular,Fashion,Debit Card,72
+CUS0048,Aisha,Gupta,Male,59,Homemaker,44954,Married,Pune,Maharashtra,Premium,Fashion,Credit Card,13
+CUS0049,Vikram,Nair,Female,20,Student,17319,Married,Bangalore,Karnataka,Regular,Skincare,Credit Card,27
+CUS0050,Priya,Joshi,Male,37,Doctor,218539,Single,Mumbai,Maharashtra,New,Electronics,Cash On Delivery,83
+CUS0051,Arjun,Sharma,Female,51,Homemaker,111131,Married,Delhi,Delhi,Regular,Electronics,Credit Card,83
+CUS0052,Priya,Kumar,Male,41,Government Employee,158397,Single,Delhi,Delhi,Regular,Fitness,Credit Card,93
+CUS0053,Rohit,Singh,Male,44,Government Employee,232501,Single,Hyderabad,Telangana,Premium,Groceries,Credit Card,44
+CUS0054,Arjun,Nair,Female,56,Business Owner,128781,Single,Hyderabad,Telangana,Regular,Fashion,Credit Card,53
+CUS0055,Kiran,Gupta,Male,40,Doctor,213029,Married,Delhi,Delhi,Regular,Home Appliances,Credit Card,43
+CUS0056,Ananya,Nair,Male,53,Business Owner,82946,Married,Pune,Maharashtra,Regular,Fashion,Cash On Delivery,53
+CUS0057,Aisha,Kumar,Male,25,Teacher,115014,Married,Delhi,Delhi,Regular,Groceries,Credit Card,75
+CUS0058,Neha,Verma,Female,23,Student,19928,Single,Mumbai,Maharashtra,Regular,Skincare,Debit Card,84
+CUS0059,Rohit,Nair,Male,22,Student,34580,Married,Bangalore,Karnataka,Premium,Fitness,Cash On Delivery,89
+CUS0060,Arjun,Gupta,Male,29,Software Engineer,30376,Single,Pune,Maharashtra,Regular,Electronics,Credit Card,62
+CUS0061,Neha,Sharma,Male,19,Student,33617,Married,Pune,Maharashtra,Regular,Electronics,Credit Card,44
+CUS0062,Sneha,Patel,Male,59,Business Owner,100939,Single,Delhi,Delhi,Premium,Electronics,Debit Card,75
+CUS0063,Aisha,Joshi,Male,43,Doctor,192361,Married,Delhi,Delhi,Premium,Fashion,Credit Card,49
+CUS0064,Rohit,Joshi,Male,47,Government Employee,209065,Married,Chennai,Tamil Nadu,Premium,Fashion,Cash On Delivery,31
+CUS0065,Ananya,Gupta,Male,34,Sales Executive,92297,Single,Delhi,Delhi,Regular,Home Appliances,UPI,22
+CUS0066,Rohit,Gupta,Female,26,Teacher,100226,Married,Hyderabad,Telangana,Regular,Groceries,UPI,50
+CUS0067,Rahul,Verma,Female,23,Student,12774,Single,Pune,Maharashtra,Premium,Electronics,Credit Card,73
+CUS0068,Aisha,Singh,Female,52,Homemaker,119393,Married,Bangalore,Karnataka,Premium,Fitness,Credit Card,53
+CUS0069,Arjun,Reddy,Male,18,Student,16541,Married,Pune,Maharashtra,Regular,Home Appliances,Cash On Delivery,19
+CUS0070,Aisha,Iyer,Female,46,Business Owner,99805,Single,Chennai,Tamil Nadu,Premium,Groceries,UPI,52
+CUS0071,Rahul,Kumar,Male,19,Student,19039,Married,Bangalore,Karnataka,Premium,Fitness,Cash On Delivery,15
+CUS0072,Rahul,Kumar,Female,22,Student,12078,Single,Hyderabad,Telangana,Regular,Fashion,Credit Card,50
+CUS0073,Vikram,Sharma,Male,30,Teacher,115199,Married,Delhi,Delhi,Premium,Fashion,Cash On Delivery,97
+CUS0074,Neha,Patel,Male,46,Business Owner,223114,Single,Chennai,Tamil Nadu,Regular,Skincare,Cash On Delivery,84
+CUS0075,Sneha,Verma,Male,42,Doctor,216191,Married,Chennai,Tamil Nadu,Regular,Groceries,UPI,48
+CUS0076,Ananya,Patel,Female,43,Business Owner,147407,Single,Pune,Maharashtra,Premium,Fashion,UPI,85
+CUS0077,Sneha,Iyer,Male,31,Software Engineer,104038,Single,Bangalore,Karnataka,New,Electronics,Cash On Delivery,59
+CUS0078,Ananya,Joshi,Female,49,Government Employee,217015,Married,Hyderabad,Telangana,Regular,Groceries,UPI,50
+CUS0079,Aisha,Gupta,Female,24,Sales Executive,38046,Married,Delhi,Delhi,Regular,Groceries,Cash On Delivery,25
+CUS0080,Aisha,Nair,Male,18,Student,21955,Married,Chennai,Tamil Nadu,New,Fashion,Debit Card,98
+CUS0081,Vikram,Verma,Female,44,Business Owner,240558,Single,Chennai,Tamil Nadu,Regular,Skincare,Credit Card,46
+CUS0082,Rahul,Nair,Male,41,Business Owner,223496,Married,Chennai,Tamil Nadu,Premium,Fashion,Cash On Delivery,93
+CUS0083,Ananya,Gupta,Female,48,Doctor,179256,Married,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,8
+CUS0084,Aisha,Kumar,Male,49,Doctor,124501,Married,Bangalore,Karnataka,Regular,Home Appliances,Cash On Delivery,57
+CUS0085,Kiran,Patel,Female,53,Business Owner,110189,Married,Bangalore,Karnataka,Regular,Fashion,Debit Card,57
+CUS0086,Arjun,Iyer,Male,19,Student,19878,Single,Delhi,Delhi,Regular,Groceries,Credit Card,61
+CUS0087,Aisha,Singh,Male,47,Business Owner,111794,Single,Delhi,Delhi,Regular,Groceries,Credit Card,4
+CUS0088,Sneha,Gupta,Female,23,Student,34720,Single,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,74
+CUS0089,Aisha,Iyer,Female,48,Government Employee,75514,Single,Pune,Maharashtra,Regular,Fashion,Credit Card,13
+CUS0090,Vikram,Gupta,Male,48,Government Employee,157514,Married,Chennai,Tamil Nadu,Regular,Fashion,Cash On Delivery,87
+CUS0091,Sneha,Iyer,Male,45,Government Employee,151596,Married,Pune,Maharashtra,Regular,Groceries,Cash On Delivery,38
+CUS0092,Arjun,Verma,Male,19,Student,23048,Single,Pune,Maharashtra,New,Skincare,Debit Card,18
+CUS0093,Sneha,Sharma,Male,21,Student,30336,Single,Bangalore,Karnataka,New,Home Appliances,UPI,86
+CUS0094,Aisha,Iyer,Female,53,Homemaker,55372,Single,Delhi,Delhi,Regular,Skincare,Debit Card,41
+CUS0095,Aisha,Patel,Male,54,Business Owner,110072,Married,Bangalore,Karnataka,Regular,Skincare,UPI,85
+CUS0096,Rohit,Patel,Male,43,Business Owner,245214,Single,Delhi,Delhi,Regular,Groceries,Credit Card,29
+CUS0097,Vikram,Patel,Male,45,Government Employee,132632,Married,Mumbai,Maharashtra,Premium,Home Appliances,Debit Card,91
+CUS0098,Ananya,Patel,Female,51,Homemaker,126526,Married,Pune,Maharashtra,Regular,Fitness,UPI,20
+CUS0099,Ananya,Joshi,Male,50,Business Owner,119430,Married,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,36
+CUS0100,Sneha,Singh,Male,52,Homemaker,81635,Married,Pune,Maharashtra,Premium,Skincare,Debit Card,11
+CUS0101,Ananya,Kumar,Male,36,Business Owner,205948,Married,Mumbai,Maharashtra,Premium,Fashion,Credit Card,54
+CUS0102,Arjun,Patel,Male,43,Doctor,92434,Married,Mumbai,Maharashtra,Regular,Home Appliances,Credit Card,35
+CUS0103,Aisha,Joshi,Female,22,Student,31193,Married,Delhi,Delhi,Regular,Fashion,UPI,27
+CUS0104,Neha,Sharma,Male,20,Student,22292,Single,Delhi,Delhi,Regular,Skincare,Credit Card,32
+CUS0105,Arjun,Kumar,Male,57,Business Owner,144358,Married,Mumbai,Maharashtra,Regular,Home Appliances,Debit Card,53
+CUS0106,Neha,Nair,Male,52,Homemaker,26880,Single,Chennai,Tamil Nadu,Regular,Skincare,Debit Card,98
+CUS0107,Rohit,Joshi,Female,23,Student,28304,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,68
+CUS0108,Sneha,Sharma,Female,19,Student,18876,Married,Mumbai,Maharashtra,Premium,Skincare,Cash On Delivery,33
+CUS0109,Vikram,Nair,Male,41,Doctor,86041,Married,Bangalore,Karnataka,Regular,Electronics,UPI,11
+CUS0110,Rahul,Iyer,Female,22,Student,23458,Married,Mumbai,Maharashtra,Regular,Home Appliances,Credit Card,45
+CUS0111,Arjun,Kumar,Female,30,Software Engineer,99711,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,87
+CUS0112,Sneha,Kumar,Female,34,Sales Executive,110749,Single,Pune,Maharashtra,Regular,Groceries,UPI,62
+CUS0113,Aisha,Nair,Female,38,Government Employee,152312,Married,Bangalore,Karnataka,Premium,Fashion,Credit Card,76
+CUS0114,Aisha,Iyer,Female,50,Government Employee,219410,Married,Delhi,Delhi,Regular,Home Appliances,UPI,85
+CUS0115,Priya,Verma,Male,55,Business Owner,39376,Single,Hyderabad,Telangana,Regular,Groceries,UPI,62
+CUS0116,Vikram,Kumar,Female,59,Homemaker,30390,Single,Pune,Maharashtra,Regular,Electronics,Cash On Delivery,21
+CUS0117,Sneha,Kumar,Female,46,Doctor,112497,Married,Pune,Maharashtra,Regular,Home Appliances,Debit Card,12
+CUS0118,Sneha,Singh,Male,25,Teacher,42682,Married,Chennai,Tamil Nadu,Regular,Electronics,UPI,65
+CUS0119,Sneha,Nair,Female,26,Sales Executive,98133,Single,Pune,Maharashtra,New,Groceries,Debit Card,61
+CUS0120,Arjun,Reddy,Female,38,Doctor,102871,Married,Chennai,Tamil Nadu,Premium,Fashion,UPI,44
+CUS0121,Kiran,Nair,Male,42,Doctor,176652,Married,Delhi,Delhi,Premium,Fitness,Cash On Delivery,73
+CUS0122,Aisha,Patel,Female,58,Homemaker,140057,Married,Mumbai,Maharashtra,Regular,Groceries,Credit Card,19
+CUS0123,Arjun,Joshi,Male,59,Business Owner,59091,Married,Mumbai,Maharashtra,Regular,Home Appliances,Credit Card,32
+CUS0124,Ananya,Gupta,Female,32,Sales Executive,31052,Single,Mumbai,Maharashtra,New,Skincare,UPI,55
+CUS0125,Rahul,Kumar,Male,50,Government Employee,170037,Married,Mumbai,Maharashtra,Premium,Fitness,UPI,16
+CUS0126,Kiran,Sharma,Male,24,Software Engineer,100263,Single,Mumbai,Maharashtra,Premium,Groceries,UPI,26
+CUS0127,Sneha,Kumar,Male,25,Teacher,93684,Married,Chennai,Tamil Nadu,Premium,Groceries,UPI,99
+CUS0128,Priya,Nair,Female,51,Business Owner,41872,Single,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,8
+CUS0129,Kiran,Patel,Female,59,Business Owner,47829,Married,Bangalore,Karnataka,Premium,Fitness,UPI,31
+CUS0130,Rohit,Kumar,Female,49,Government Employee,177366,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,79
+CUS0131,Arjun,Joshi,Male,31,Software Engineer,65848,Single,Bangalore,Karnataka,Premium,Fashion,UPI,50
+CUS0132,Rohit,Gupta,Female,26,Software Engineer,100669,Single,Chennai,Tamil Nadu,Regular,Fashion,UPI,76
+CUS0133,Sneha,Verma,Male,43,Government Employee,193843,Married,Pune,Maharashtra,Premium,Home Appliances,UPI,72
+CUS0134,Rohit,Iyer,Male,31,Software Engineer,31534,Single,Mumbai,Maharashtra,Premium,Electronics,Credit Card,1
+CUS0135,Vikram,Joshi,Male,33,Teacher,79870,Single,Delhi,Delhi,Premium,Groceries,Debit Card,58
+CUS0136,Priya,Nair,Male,56,Business Owner,133251,Single,Delhi,Delhi,Regular,Fashion,Cash On Delivery,98
+CUS0137,Kiran,Kumar,Male,30,Teacher,87376,Married,Bangalore,Karnataka,Regular,Fashion,Debit Card,44
+CUS0138,Sneha,Kumar,Male,58,Business Owner,136800,Single,Hyderabad,Telangana,Regular,Fitness,UPI,99
+CUS0139,Rohit,Joshi,Female,41,Government Employee,131802,Married,Hyderabad,Telangana,Regular,Home Appliances,Credit Card,66
+CUS0140,Sneha,Sharma,Male,38,Doctor,91809,Single,Chennai,Tamil Nadu,Regular,Fashion,UPI,72
+CUS0141,Ananya,Iyer,Female,24,Teacher,92323,Married,Mumbai,Maharashtra,Premium,Home Appliances,Debit Card,46
+CUS0142,Sneha,Patel,Male,29,Teacher,99340,Married,Mumbai,Maharashtra,Premium,Fashion,Cash On Delivery,66
+CUS0143,Neha,Kumar,Male,19,Student,31841,Single,Bangalore,Karnataka,New,Fitness,UPI,42
+CUS0144,Ananya,Reddy,Female,59,Business Owner,45312,Married,Hyderabad,Telangana,Regular,Fashion,UPI,50
+CUS0145,Neha,Verma,Male,38,Government Employee,163465,Single,Hyderabad,Telangana,New,Fashion,Credit Card,53
+CUS0146,Ananya,Patel,Female,44,Government Employee,97589,Married,Hyderabad,Telangana,Regular,Fashion,Debit Card,61
+CUS0147,Aisha,Iyer,Male,53,Business Owner,74764,Single,Delhi,Delhi,Regular,Groceries,Debit Card,59
+CUS0148,Aisha,Nair,Female,39,Doctor,117183,Married,Pune,Maharashtra,New,Fashion,Debit Card,60
+CUS0149,Rahul,Joshi,Male,43,Business Owner,74372,Single,Delhi,Delhi,New,Fashion,Credit Card,77
+CUS0150,Rahul,Iyer,Female,54,Homemaker,60757,Married,Delhi,Delhi,Regular,Electronics,Debit Card,73
+CUS0151,Kiran,Kumar,Male,39,Government Employee,98144,Married,Pune,Maharashtra,Premium,Groceries,Debit Card,86
+CUS0152,Sneha,Kumar,Female,47,Doctor,72039,Single,Delhi,Delhi,Regular,Fitness,Debit Card,76
+CUS0153,Aisha,Sharma,Female,52,Homemaker,48979,Single,Hyderabad,Telangana,Premium,Groceries,Cash On Delivery,84
+CUS0154,Sneha,Joshi,Male,33,Software Engineer,113627,Single,Hyderabad,Telangana,Regular,Fitness,Credit Card,52
+CUS0155,Priya,Kumar,Male,23,Student,10248,Married,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,79
+CUS0156,Ananya,Gupta,Female,21,Student,31694,Married,Mumbai,Maharashtra,Regular,Skincare,Credit Card,95
+CUS0157,Rahul,Kumar,Female,21,Student,15331,Single,Mumbai,Maharashtra,New,Groceries,Credit Card,93
+CUS0158,Ananya,Reddy,Female,34,Teacher,85009,Married,Mumbai,Maharashtra,New,Home Appliances,Credit Card,73
+CUS0159,Neha,Kumar,Male,18,Student,12936,Single,Mumbai,Maharashtra,Regular,Groceries,Credit Card,2
+CUS0160,Aisha,Gupta,Male,39,Government Employee,181403,Single,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,5
+CUS0161,Neha,Reddy,Male,27,Software Engineer,30892,Single,Mumbai,Maharashtra,Premium,Groceries,Credit Card,97
+CUS0162,Neha,Reddy,Male,54,Homemaker,64848,Married,Hyderabad,Telangana,Regular,Skincare,Credit Card,39
+CUS0163,Aisha,Kumar,Female,19,Student,29346,Married,Pune,Maharashtra,Regular,Groceries,UPI,85
+CUS0164,Neha,Joshi,Male,24,Teacher,115131,Single,Hyderabad,Telangana,Regular,Skincare,Credit Card,28
+CUS0165,Aisha,Reddy,Male,50,Doctor,199142,Married,Mumbai,Maharashtra,Premium,Home Appliances,Credit Card,66
+CUS0166,Priya,Kumar,Male,26,Software Engineer,116178,Single,Pune,Maharashtra,Regular,Groceries,Credit Card,6
+CUS0167,Ananya,Singh,Female,23,Student,21494,Married,Pune,Maharashtra,Regular,Home Appliances,Credit Card,68
+CUS0168,Aisha,Reddy,Male,31,Teacher,104018,Married,Mumbai,Maharashtra,Regular,Groceries,Credit Card,75
+CUS0169,Neha,Patel,Female,34,Software Engineer,92885,Married,Hyderabad,Telangana,Regular,Fitness,Credit Card,88
+CUS0170,Sneha,Gupta,Female,18,Student,10798,Married,Delhi,Delhi,Regular,Groceries,Credit Card,42
+CUS0171,Vikram,Verma,Female,27,Teacher,77177,Single,Chennai,Tamil Nadu,Regular,Skincare,Debit Card,47
+CUS0172,Kiran,Reddy,Male,54,Business Owner,56336,Married,Bangalore,Karnataka,New,Fashion,UPI,13
+CUS0173,Neha,Patel,Female,45,Government Employee,56900,Single,Chennai,Tamil Nadu,New,Electronics,Debit Card,31
+CUS0174,Vikram,Kumar,Male,34,Software Engineer,78808,Single,Chennai,Tamil Nadu,New,Home Appliances,Debit Card,8
+CUS0175,Arjun,Kumar,Male,23,Student,29983,Married,Mumbai,Maharashtra,New,Home Appliances,Debit Card,57
+CUS0176,Ananya,Patel,Male,28,Teacher,73271,Single,Bangalore,Karnataka,Premium,Groceries,UPI,37
+CUS0177,Rohit,Sharma,Male,43,Doctor,118224,Single,Chennai,Tamil Nadu,Regular,Home Appliances,UPI,51
+CUS0178,Neha,Gupta,Male,31,Software Engineer,119521,Single,Chennai,Tamil Nadu,Regular,Fashion,Debit Card,100
+CUS0179,Ananya,Gupta,Male,51,Business Owner,98527,Married,Delhi,Delhi,Regular,Fitness,Cash On Delivery,36
+CUS0180,Rahul,Patel,Male,37,Government Employee,132806,Married,Hyderabad,Telangana,New,Home Appliances,Credit Card,96
+CUS0181,Arjun,Patel,Female,23,Student,16503,Married,Hyderabad,Telangana,Premium,Fitness,Cash On Delivery,33
+CUS0182,Arjun,Verma,Female,56,Homemaker,65821,Single,Delhi,Delhi,Regular,Electronics,Cash On Delivery,84
+CUS0183,Rahul,Reddy,Female,49,Government Employee,89183,Married,Chennai,Tamil Nadu,Regular,Fashion,UPI,64
+CUS0184,Ananya,Singh,Female,51,Homemaker,52283,Married,Hyderabad,Telangana,Regular,Groceries,UPI,55
+CUS0185,Kiran,Reddy,Female,31,Teacher,42350,Single,Pune,Maharashtra,Regular,Home Appliances,Debit Card,90
+CUS0186,Aisha,Kumar,Female,46,Doctor,212487,Single,Chennai,Tamil Nadu,New,Skincare,Debit Card,79
+CUS0187,Arjun,Singh,Female,48,Doctor,242448,Married,Hyderabad,Telangana,New,Skincare,Debit Card,47
+CUS0188,Vikram,Reddy,Male,36,Business Owner,91972,Married,Hyderabad,Telangana,Regular,Home Appliances,Credit Card,70
+CUS0189,Neha,Singh,Male,43,Government Employee,215633,Married,Delhi,Delhi,Regular,Skincare,UPI,46
+CUS0190,Arjun,Nair,Female,40,Doctor,209652,Single,Delhi,Delhi,Regular,Fitness,Cash On Delivery,55
+CUS0191,Rohit,Kumar,Male,44,Doctor,102524,Married,Mumbai,Maharashtra,Regular,Fashion,Credit Card,4
+CUS0192,Vikram,Patel,Female,34,Sales Executive,119627,Single,Bangalore,Karnataka,Regular,Groceries,Debit Card,2
+CUS0193,Rahul,Singh,Male,46,Business Owner,169444,Single,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,87
+CUS0194,Aisha,Sharma,Male,23,Student,16868,Single,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,24
+CUS0195,Rahul,Sharma,Male,52,Homemaker,125134,Married,Pune,Maharashtra,Premium,Home Appliances,UPI,45
+CUS0196,Arjun,Singh,Female,49,Business Owner,126767,Married,Delhi,Delhi,Regular,Electronics,Debit Card,34
+CUS0197,Aisha,Joshi,Female,43,Business Owner,116908,Married,Chennai,Tamil Nadu,New,Home Appliances,Debit Card,5
+CUS0198,Priya,Iyer,Female,51,Homemaker,116031,Married,Mumbai,Maharashtra,New,Electronics,UPI,43
+CUS0199,Neha,Patel,Female,38,Doctor,74287,Married,Mumbai,Maharashtra,Regular,Electronics,UPI,73
+CUS0200,Neha,Joshi,Female,25,Teacher,50304,Single,Mumbai,Maharashtra,Premium,Home Appliances,Debit Card,98
+CUS0201,Rohit,Verma,Female,39,Business Owner,165793,Single,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,13
+CUS0202,Sneha,Patel,Female,42,Business Owner,100280,Single,Delhi,Delhi,Regular,Home Appliances,UPI,81
+CUS0203,Rohit,Verma,Female,51,Business Owner,125267,Married,Chennai,Tamil Nadu,Premium,Fitness,Debit Card,8
+CUS0204,Aisha,Singh,Female,59,Homemaker,141903,Married,Hyderabad,Telangana,New,Skincare,Cash On Delivery,13
+CUS0205,Priya,Nair,Male,35,Software Engineer,117119,Married,Delhi,Delhi,Regular,Fashion,Cash On Delivery,64
+CUS0206,Neha,Reddy,Male,24,Software Engineer,75548,Married,Pune,Maharashtra,Regular,Electronics,Cash On Delivery,81
+CUS0207,Ananya,Patel,Female,46,Business Owner,221619,Single,Pune,Maharashtra,Regular,Groceries,Debit Card,27
+CUS0208,Ananya,Verma,Male,21,Student,31509,Single,Hyderabad,Telangana,Regular,Skincare,Cash On Delivery,87
+CUS0209,Kiran,Kumar,Male,55,Business Owner,89216,Single,Mumbai,Maharashtra,Premium,Fashion,Cash On Delivery,80
+CUS0210,Ananya,Nair,Male,43,Business Owner,220098,Married,Mumbai,Maharashtra,Regular,Home Appliances,Debit Card,2
+CUS0211,Kiran,Nair,Male,35,Software Engineer,74874,Married,Delhi,Delhi,New,Home Appliances,Cash On Delivery,38
+CUS0212,Ananya,Kumar,Female,22,Student,15242,Married,Delhi,Delhi,Regular,Electronics,UPI,88
+CUS0213,Neha,Joshi,Female,40,Business Owner,95403,Married,Bangalore,Karnataka,Regular,Home Appliances,Cash On Delivery,14
+CUS0214,Rohit,Singh,Female,30,Sales Executive,37768,Single,Hyderabad,Telangana,New,Groceries,UPI,85
+CUS0215,Kiran,Verma,Male,21,Student,10003,Single,Bangalore,Karnataka,Regular,Electronics,Cash On Delivery,89
+CUS0216,Kiran,Nair,Female,51,Business Owner,132885,Single,Bangalore,Karnataka,Regular,Groceries,UPI,34
+CUS0217,Rohit,Joshi,Female,60,Business Owner,88365,Married,Mumbai,Maharashtra,Regular,Electronics,Credit Card,38
+CUS0218,Ananya,Sharma,Male,43,Doctor,143136,Married,Hyderabad,Telangana,New,Groceries,UPI,63
+CUS0219,Vikram,Gupta,Male,56,Homemaker,108282,Married,Hyderabad,Telangana,Regular,Fashion,Debit Card,32
+CUS0220,Vikram,Kumar,Male,20,Student,13353,Single,Mumbai,Maharashtra,Regular,Fashion,Cash On Delivery,68
+CUS0221,Vikram,Verma,Female,52,Homemaker,88155,Married,Pune,Maharashtra,Premium,Fitness,Credit Card,38
+CUS0222,Rohit,Reddy,Male,53,Homemaker,68088,Married,Chennai,Tamil Nadu,Regular,Home Appliances,UPI,11
+CUS0223,Kiran,Verma,Female,26,Sales Executive,49812,Married,Mumbai,Maharashtra,Regular,Fashion,UPI,87
+CUS0224,Vikram,Reddy,Male,24,Sales Executive,80741,Single,Pune,Maharashtra,New,Fashion,UPI,70
+CUS0225,Priya,Iyer,Female,44,Business Owner,161620,Single,Pune,Maharashtra,Regular,Skincare,UPI,91
+CUS0226,Vikram,Joshi,Male,56,Homemaker,141515,Married,Bangalore,Karnataka,New,Home Appliances,Credit Card,59
+CUS0227,Vikram,Verma,Male,40,Doctor,71636,Single,Bangalore,Karnataka,Regular,Skincare,UPI,18
+CUS0228,Ananya,Gupta,Male,59,Business Owner,92847,Single,Hyderabad,Telangana,New,Fashion,Debit Card,96
+CUS0229,Aisha,Iyer,Male,22,Student,13223,Married,Hyderabad,Telangana,Premium,Groceries,Debit Card,44
+CUS0230,Aisha,Patel,Male,22,Student,11286,Married,Delhi,Delhi,Regular,Electronics,Credit Card,90
+CUS0231,Rohit,Gupta,Female,22,Student,22887,Married,Delhi,Delhi,Premium,Groceries,Credit Card,1
+CUS0232,Sneha,Sharma,Female,38,Government Employee,164210,Single,Hyderabad,Telangana,New,Home Appliances,Debit Card,86
+CUS0233,Arjun,Reddy,Male,47,Government Employee,111481,Single,Bangalore,Karnataka,Premium,Electronics,UPI,63
+CUS0234,Arjun,Kumar,Female,48,Doctor,129578,Single,Delhi,Delhi,New,Fashion,Debit Card,26
+CUS0235,Vikram,Kumar,Female,57,Business Owner,86343,Married,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,9
+CUS0236,Kiran,Verma,Female,18,Student,23427,Single,Chennai,Tamil Nadu,New,Fashion,Cash On Delivery,34
+CUS0237,Ananya,Reddy,Male,55,Business Owner,108212,Single,Chennai,Tamil Nadu,Premium,Fitness,Debit Card,44
+CUS0238,Vikram,Verma,Male,41,Business Owner,173675,Single,Delhi,Delhi,Regular,Skincare,Debit Card,4
+CUS0239,Rahul,Reddy,Female,30,Software Engineer,72236,Single,Bangalore,Karnataka,Regular,Fitness,Cash On Delivery,57
+CUS0240,Kiran,Gupta,Male,54,Business Owner,80428,Married,Bangalore,Karnataka,Premium,Electronics,Credit Card,85
+CUS0241,Ananya,Joshi,Female,21,Student,29739,Married,Delhi,Delhi,Regular,Home Appliances,UPI,80
+CUS0242,Priya,Sharma,Male,45,Government Employee,76180,Married,Hyderabad,Telangana,Premium,Fitness,Debit Card,25
+CUS0243,Priya,Nair,Male,46,Business Owner,99612,Single,Bangalore,Karnataka,New,Fitness,Debit Card,25
+CUS0244,Neha,Reddy,Male,30,Sales Executive,75948,Married,Mumbai,Maharashtra,Premium,Home Appliances,Cash On Delivery,8
+CUS0245,Sneha,Nair,Male,22,Student,19526,Single,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,89
+CUS0246,Sneha,Joshi,Male,58,Business Owner,127968,Married,Chennai,Tamil Nadu,Premium,Electronics,UPI,32
+CUS0247,Rohit,Verma,Female,22,Student,24445,Single,Bangalore,Karnataka,Regular,Fitness,Debit Card,71
+CUS0248,Arjun,Kumar,Female,31,Software Engineer,66517,Married,Bangalore,Karnataka,Regular,Fashion,Cash On Delivery,55
+CUS0249,Aisha,Reddy,Male,48,Doctor,151361,Single,Pune,Maharashtra,Regular,Groceries,Credit Card,92
+CUS0250,Neha,Singh,Male,24,Teacher,73072,Married,Mumbai,Maharashtra,Regular,Home Appliances,Cash On Delivery,12
+CUS0251,Ananya,Kumar,Female,40,Doctor,120351,Married,Delhi,Delhi,Regular,Electronics,Cash On Delivery,99
+CUS0252,Aisha,Kumar,Female,26,Teacher,113571,Single,Hyderabad,Telangana,Regular,Electronics,Cash On Delivery,93
+CUS0253,Aisha,Nair,Male,46,Business Owner,169722,Married,Mumbai,Maharashtra,Regular,Groceries,Cash On Delivery,14
+CUS0254,Rahul,Iyer,Male,24,Software Engineer,55702,Single,Hyderabad,Telangana,Regular,Electronics,Credit Card,53
+CUS0255,Aisha,Nair,Male,57,Business Owner,123749,Married,Pune,Maharashtra,Regular,Groceries,Debit Card,1
+CUS0256,Arjun,Sharma,Female,60,Business Owner,85825,Married,Mumbai,Maharashtra,Regular,Groceries,UPI,72
+CUS0257,Sneha,Joshi,Female,60,Homemaker,56786,Single,Delhi,Delhi,Regular,Electronics,Credit Card,40
+CUS0258,Rohit,Verma,Male,40,Government Employee,83760,Single,Mumbai,Maharashtra,New,Fashion,Cash On Delivery,27
+CUS0259,Vikram,Sharma,Female,36,Business Owner,96127,Married,Pune,Maharashtra,Regular,Fitness,Cash On Delivery,1
+CUS0260,Priya,Reddy,Female,18,Student,22442,Single,Delhi,Delhi,Regular,Electronics,Debit Card,73
+CUS0261,Priya,Verma,Female,23,Student,23223,Married,Hyderabad,Telangana,Regular,Skincare,Debit Card,92
+CUS0262,Neha,Verma,Female,27,Software Engineer,73017,Married,Pune,Maharashtra,Regular,Fashion,Credit Card,81
+CUS0263,Vikram,Joshi,Male,32,Sales Executive,111728,Married,Delhi,Delhi,Premium,Fitness,UPI,89
+CUS0264,Neha,Iyer,Female,55,Homemaker,118157,Married,Hyderabad,Telangana,New,Groceries,Debit Card,9
+CUS0265,Ananya,Verma,Female,40,Business Owner,241924,Single,Delhi,Delhi,New,Groceries,UPI,37
+CUS0266,Arjun,Singh,Female,18,Student,30035,Married,Pune,Maharashtra,Regular,Skincare,Debit Card,56
+CUS0267,Rahul,Gupta,Male,21,Student,30677,Single,Hyderabad,Telangana,Regular,Home Appliances,Debit Card,33
+CUS0268,Sneha,Gupta,Male,51,Homemaker,89145,Married,Mumbai,Maharashtra,New,Skincare,UPI,95
+CUS0269,Kiran,Singh,Male,37,Doctor,204315,Single,Bangalore,Karnataka,Regular,Groceries,UPI,24
+CUS0270,Neha,Kumar,Male,43,Doctor,95068,Single,Chennai,Tamil Nadu,Premium,Fitness,UPI,90
+CUS0271,Rohit,Gupta,Female,57,Business Owner,50027,Single,Hyderabad,Telangana,Premium,Skincare,UPI,82
+CUS0272,Priya,Kumar,Male,38,Doctor,199042,Single,Delhi,Delhi,Premium,Home Appliances,Debit Card,6
+CUS0273,Sneha,Gupta,Male,25,Teacher,33532,Single,Pune,Maharashtra,Premium,Home Appliances,Debit Card,64
+CUS0274,Sneha,Verma,Male,34,Sales Executive,74095,Single,Bangalore,Karnataka,New,Fashion,Debit Card,22
+CUS0275,Aisha,Singh,Male,41,Government Employee,85045,Single,Mumbai,Maharashtra,Premium,Home Appliances,UPI,27
+CUS0276,Vikram,Gupta,Male,25,Teacher,110436,Single,Delhi,Delhi,Regular,Groceries,UPI,32
+CUS0277,Sneha,Sharma,Male,31,Teacher,106979,Married,Delhi,Delhi,Regular,Fitness,Debit Card,65
+CUS0278,Ananya,Gupta,Female,47,Business Owner,221277,Single,Hyderabad,Telangana,Regular,Groceries,Credit Card,85
+CUS0279,Sneha,Kumar,Female,45,Doctor,161611,Married,Mumbai,Maharashtra,Regular,Skincare,UPI,85
+CUS0280,Sneha,Reddy,Female,51,Business Owner,44909,Married,Pune,Maharashtra,Regular,Groceries,Debit Card,50
+CUS0281,Neha,Singh,Female,44,Government Employee,200633,Single,Delhi,Delhi,Regular,Groceries,Cash On Delivery,13
+CUS0282,Rohit,Patel,Male,39,Government Employee,248006,Married,Delhi,Delhi,Regular,Electronics,Cash On Delivery,64
+CUS0283,Ananya,Verma,Male,25,Teacher,86585,Married,Chennai,Tamil Nadu,New,Groceries,Credit Card,17
+CUS0284,Kiran,Joshi,Male,53,Business Owner,110103,Married,Chennai,Tamil Nadu,Regular,Skincare,Cash On Delivery,7
+CUS0285,Rahul,Patel,Male,60,Homemaker,56851,Married,Bangalore,Karnataka,Regular,Fashion,Cash On Delivery,87
+CUS0286,Rohit,Joshi,Female,58,Business Owner,112590,Married,Chennai,Tamil Nadu,Regular,Skincare,Debit Card,89
+CUS0287,Arjun,Gupta,Male,59,Business Owner,111755,Married,Hyderabad,Telangana,Regular,Home Appliances,Debit Card,80
+CUS0288,Rahul,Patel,Male,55,Homemaker,26688,Single,Delhi,Delhi,Regular,Fashion,Debit Card,32
+CUS0289,Aisha,Nair,Female,54,Business Owner,53654,Single,Chennai,Tamil Nadu,Premium,Fashion,Debit Card,62
+CUS0290,Priya,Iyer,Female,21,Student,28316,Married,Mumbai,Maharashtra,Regular,Groceries,Cash On Delivery,71
+CUS0291,Arjun,Gupta,Female,25,Teacher,61467,Single,Mumbai,Maharashtra,Premium,Electronics,Cash On Delivery,76
+CUS0292,Arjun,Joshi,Male,39,Doctor,243608,Single,Chennai,Tamil Nadu,Premium,Electronics,UPI,50
+CUS0293,Rahul,Singh,Male,55,Business Owner,82772,Married,Mumbai,Maharashtra,Regular,Home Appliances,UPI,48
+CUS0294,Aisha,Singh,Female,24,Sales Executive,101312,Single,Mumbai,Maharashtra,Premium,Groceries,Cash On Delivery,26
+CUS0295,Neha,Joshi,Male,39,Government Employee,119388,Single,Hyderabad,Telangana,New,Fitness,Cash On Delivery,66
+CUS0296,Arjun,Patel,Male,32,Sales Executive,60984,Single,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,26
+CUS0297,Arjun,Sharma,Male,39,Government Employee,118606,Married,Mumbai,Maharashtra,Premium,Skincare,Credit Card,76
+CUS0298,Vikram,Sharma,Female,57,Homemaker,82365,Married,Bangalore,Karnataka,Regular,Fashion,UPI,5
+CUS0299,Sneha,Verma,Female,30,Sales Executive,47669,Married,Delhi,Delhi,New,Fitness,UPI,7
+CUS0300,Sneha,Patel,Male,21,Student,30199,Married,Bangalore,Karnataka,Regular,Electronics,Debit Card,1
+CUS0301,Rohit,Patel,Male,31,Software Engineer,38401,Single,Hyderabad,Telangana,Regular,Skincare,Debit Card,3
+CUS0302,Kiran,Kumar,Male,27,Sales Executive,62933,Married,Hyderabad,Telangana,Regular,Home Appliances,Cash On Delivery,48
+CUS0303,Ananya,Kumar,Female,55,Business Owner,125328,Single,Mumbai,Maharashtra,Regular,Home Appliances,Cash On Delivery,15
+CUS0304,Rohit,Kumar,Female,60,Business Owner,38553,Married,Delhi,Delhi,Premium,Groceries,UPI,83
+CUS0305,Arjun,Sharma,Male,30,Sales Executive,42521,Married,Chennai,Tamil Nadu,Premium,Groceries,Cash On Delivery,26
+CUS0306,Kiran,Verma,Male,40,Business Owner,219915,Married,Pune,Maharashtra,Premium,Electronics,Credit Card,41
+CUS0307,Aisha,Iyer,Male,45,Business Owner,149530,Single,Pune,Maharashtra,Regular,Fashion,Debit Card,68
+CUS0308,Arjun,Patel,Male,19,Student,20804,Married,Bangalore,Karnataka,Regular,Home Appliances,Cash On Delivery,33
+CUS0309,Priya,Joshi,Male,56,Homemaker,126054,Single,Chennai,Tamil Nadu,Regular,Groceries,UPI,54
+CUS0310,Arjun,Reddy,Female,47,Business Owner,102027,Single,Mumbai,Maharashtra,Premium,Electronics,Cash On Delivery,35
+CUS0311,Ananya,Kumar,Male,26,Software Engineer,117462,Married,Pune,Maharashtra,Regular,Skincare,UPI,30
+CUS0312,Sneha,Iyer,Female,37,Doctor,122647,Married,Pune,Maharashtra,Regular,Home Appliances,Cash On Delivery,68
+CUS0313,Rohit,Joshi,Male,48,Doctor,197523,Married,Mumbai,Maharashtra,New,Fitness,UPI,64
+CUS0314,Vikram,Singh,Female,60,Homemaker,112342,Married,Pune,Maharashtra,New,Groceries,Cash On Delivery,9
+CUS0315,Rahul,Kumar,Female,45,Government Employee,66870,Married,Bangalore,Karnataka,Regular,Fitness,Debit Card,25
+CUS0316,Rohit,Gupta,Male,18,Student,15525,Married,Delhi,Delhi,Regular,Fitness,Credit Card,96
+CUS0317,Rohit,Verma,Male,51,Homemaker,133529,Single,Delhi,Delhi,Premium,Electronics,UPI,88
+CUS0318,Sneha,Gupta,Female,35,Software Engineer,95901,Single,Mumbai,Maharashtra,Premium,Fashion,Debit Card,70
+CUS0319,Kiran,Nair,Female,35,Software Engineer,89753,Single,Chennai,Tamil Nadu,Regular,Skincare,UPI,70
+CUS0320,Rahul,Nair,Male,55,Business Owner,106530,Married,Chennai,Tamil Nadu,Regular,Fitness,UPI,84
+CUS0321,Ananya,Kumar,Male,51,Business Owner,33308,Married,Delhi,Delhi,Regular,Home Appliances,UPI,91
+CUS0322,Vikram,Reddy,Male,60,Business Owner,131621,Single,Delhi,Delhi,Premium,Fashion,UPI,72
+CUS0323,Vikram,Patel,Female,35,Teacher,96455,Single,Bangalore,Karnataka,Premium,Fashion,Credit Card,18
+CUS0324,Rahul,Joshi,Male,32,Sales Executive,118380,Single,Bangalore,Karnataka,Regular,Fitness,UPI,6
+CUS0325,Priya,Nair,Male,47,Doctor,206221,Single,Delhi,Delhi,Regular,Home Appliances,Credit Card,87
+CUS0326,Kiran,Iyer,Male,20,Student,20609,Married,Hyderabad,Telangana,Regular,Electronics,Cash On Delivery,40
+CUS0327,Arjun,Iyer,Male,41,Doctor,175785,Single,Mumbai,Maharashtra,Regular,Home Appliances,Credit Card,6
+CUS0328,Aisha,Reddy,Female,30,Teacher,43690,Married,Bangalore,Karnataka,Premium,Groceries,UPI,3
+CUS0329,Arjun,Joshi,Female,53,Business Owner,101044,Married,Mumbai,Maharashtra,Regular,Fitness,Credit Card,97
+CUS0330,Aisha,Gupta,Female,26,Teacher,105281,Married,Delhi,Delhi,Premium,Skincare,Debit Card,83
+CUS0331,Arjun,Joshi,Female,41,Business Owner,107881,Married,Delhi,Delhi,New,Groceries,Credit Card,63
+CUS0332,Rahul,Joshi,Female,41,Doctor,229544,Married,Pune,Maharashtra,Regular,Groceries,Credit Card,10
+CUS0333,Arjun,Patel,Female,40,Business Owner,162744,Single,Bangalore,Karnataka,Regular,Fashion,UPI,66
+CUS0334,Arjun,Singh,Female,57,Business Owner,89994,Married,Bangalore,Karnataka,Regular,Groceries,UPI,59
+CUS0335,Neha,Singh,Male,36,Government Employee,146739,Single,Chennai,Tamil Nadu,Premium,Electronics,UPI,43
+CUS0336,Vikram,Joshi,Male,44,Doctor,212082,Married,Mumbai,Maharashtra,Premium,Home Appliances,Credit Card,50
+CUS0337,Arjun,Gupta,Female,59,Business Owner,110940,Single,Delhi,Delhi,Regular,Fitness,UPI,60
+CUS0338,Neha,Reddy,Male,24,Software Engineer,69112,Single,Bangalore,Karnataka,Regular,Fitness,Credit Card,27
+CUS0339,Rahul,Kumar,Male,18,Student,10768,Married,Pune,Maharashtra,Premium,Fitness,UPI,94
+CUS0340,Aisha,Iyer,Female,49,Business Owner,138201,Married,Mumbai,Maharashtra,Premium,Electronics,UPI,44
+CUS0341,Arjun,Nair,Female,39,Doctor,112269,Married,Bangalore,Karnataka,Premium,Skincare,Credit Card,48
+CUS0342,Ananya,Nair,Female,56,Homemaker,130893,Single,Bangalore,Karnataka,New,Fitness,UPI,85
+CUS0343,Rohit,Singh,Female,32,Teacher,76793,Single,Hyderabad,Telangana,Regular,Home Appliances,Credit Card,62
+CUS0344,Ananya,Iyer,Male,54,Business Owner,56624,Married,Pune,Maharashtra,Premium,Skincare,Debit Card,69
+CUS0345,Rahul,Patel,Male,40,Doctor,53895,Single,Hyderabad,Telangana,Premium,Electronics,Credit Card,28
+CUS0346,Arjun,Kumar,Male,40,Business Owner,233538,Single,Delhi,Delhi,Premium,Electronics,Debit Card,47
+CUS0347,Rohit,Kumar,Male,50,Business Owner,249533,Single,Delhi,Delhi,Regular,Groceries,Credit Card,30
+CUS0348,Neha,Gupta,Male,39,Business Owner,86085,Married,Pune,Maharashtra,Regular,Electronics,Credit Card,10
+CUS0349,Aisha,Nair,Male,49,Government Employee,217082,Married,Chennai,Tamil Nadu,Regular,Fashion,UPI,73
+CUS0350,Ananya,Verma,Female,27,Teacher,104845,Married,Mumbai,Maharashtra,Regular,Fitness,Debit Card,36
+CUS0351,Aisha,Kumar,Female,28,Teacher,82535,Single,Delhi,Delhi,Premium,Skincare,Cash On Delivery,47
+CUS0352,Neha,Iyer,Male,23,Student,29764,Married,Pune,Maharashtra,New,Fitness,Credit Card,22
+CUS0353,Vikram,Nair,Male,54,Business Owner,122119,Single,Mumbai,Maharashtra,Regular,Fitness,Debit Card,78
+CUS0354,Rohit,Iyer,Female,56,Business Owner,101114,Married,Chennai,Tamil Nadu,New,Skincare,Debit Card,47
+CUS0355,Aisha,Singh,Male,31,Teacher,67798,Single,Delhi,Delhi,New,Home Appliances,Debit Card,17
+CUS0356,Sneha,Reddy,Male,27,Sales Executive,34204,Single,Pune,Maharashtra,Premium,Skincare,UPI,73
+CUS0357,Aisha,Sharma,Male,23,Student,10405,Single,Hyderabad,Telangana,Regular,Fitness,Credit Card,79
+CUS0358,Aisha,Singh,Female,28,Sales Executive,76341,Single,Chennai,Tamil Nadu,Regular,Home Appliances,Credit Card,39
+CUS0359,Rohit,Sharma,Female,58,Homemaker,116286,Single,Hyderabad,Telangana,New,Skincare,UPI,67
+CUS0360,Kiran,Gupta,Female,48,Government Employee,115180,Married,Chennai,Tamil Nadu,New,Fitness,Debit Card,58
+CUS0361,Sneha,Singh,Female,18,Student,22805,Single,Delhi,Delhi,Regular,Electronics,Credit Card,2
+CUS0362,Rohit,Singh,Female,42,Doctor,122626,Married,Bangalore,Karnataka,Regular,Home Appliances,UPI,31
+CUS0363,Priya,Patel,Male,47,Government Employee,135498,Married,Mumbai,Maharashtra,New,Fitness,Credit Card,11
+CUS0364,Rohit,Nair,Male,38,Government Employee,138129,Single,Hyderabad,Telangana,New,Electronics,Debit Card,25
+CUS0365,Priya,Singh,Female,30,Software Engineer,86507,Married,Hyderabad,Telangana,New,Electronics,UPI,11
+CUS0366,Sneha,Patel,Male,46,Government Employee,145615,Married,Pune,Maharashtra,Regular,Groceries,Credit Card,88
+CUS0367,Vikram,Reddy,Female,51,Homemaker,57591,Single,Delhi,Delhi,Regular,Home Appliances,Debit Card,16
+CUS0368,Arjun,Iyer,Female,45,Government Employee,103177,Married,Pune,Maharashtra,New,Electronics,Debit Card,92
+CUS0369,Aisha,Singh,Male,26,Sales Executive,110025,Single,Pune,Maharashtra,New,Skincare,Debit Card,66
+CUS0370,Aisha,Verma,Male,47,Doctor,70745,Single,Bangalore,Karnataka,Regular,Home Appliances,Cash On Delivery,86
+CUS0371,Ananya,Joshi,Male,18,Student,13507,Single,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,64
+CUS0372,Aisha,Nair,Male,54,Business Owner,61136,Married,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,44
+CUS0373,Vikram,Joshi,Female,49,Business Owner,53977,Single,Delhi,Delhi,Premium,Home Appliances,UPI,88
+CUS0374,Vikram,Verma,Female,47,Business Owner,204720,Married,Pune,Maharashtra,Premium,Fitness,Debit Card,36
+CUS0375,Ananya,Reddy,Female,52,Business Owner,111251,Single,Bangalore,Karnataka,Regular,Fashion,Cash On Delivery,94
+CUS0376,Kiran,Iyer,Male,26,Teacher,81911,Single,Delhi,Delhi,Regular,Fitness,UPI,23
+CUS0377,Kiran,Gupta,Female,29,Teacher,73945,Single,Delhi,Delhi,Regular,Fitness,Credit Card,49
+CUS0378,Sneha,Reddy,Male,39,Government Employee,207056,Single,Pune,Maharashtra,Regular,Home Appliances,Credit Card,90
+CUS0379,Neha,Nair,Female,31,Sales Executive,40410,Single,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,35
+CUS0380,Arjun,Patel,Male,20,Student,12712,Single,Bangalore,Karnataka,Regular,Electronics,Debit Card,90
+CUS0381,Ananya,Sharma,Female,33,Sales Executive,72479,Single,Delhi,Delhi,Regular,Fitness,Debit Card,93
+CUS0382,Aisha,Patel,Female,49,Business Owner,195282,Married,Pune,Maharashtra,Regular,Fashion,Debit Card,27
+CUS0383,Priya,Sharma,Female,54,Business Owner,39985,Married,Pune,Maharashtra,Regular,Fashion,Debit Card,68
+CUS0384,Sneha,Sharma,Male,30,Teacher,118811,Married,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,7
+CUS0385,Rahul,Joshi,Male,35,Teacher,58401,Married,Pune,Maharashtra,Premium,Groceries,Debit Card,41
+CUS0386,Sneha,Reddy,Male,51,Homemaker,98260,Single,Bangalore,Karnataka,Premium,Home Appliances,Cash On Delivery,33
+CUS0387,Arjun,Sharma,Female,55,Homemaker,59777,Single,Chennai,Tamil Nadu,New,Skincare,Debit Card,81
+CUS0388,Kiran,Singh,Male,22,Student,22503,Married,Bangalore,Karnataka,Regular,Fashion,Debit Card,52
+CUS0389,Arjun,Gupta,Female,43,Business Owner,152498,Single,Delhi,Delhi,Regular,Home Appliances,Debit Card,45
+CUS0390,Vikram,Joshi,Male,33,Sales Executive,30908,Married,Hyderabad,Telangana,Premium,Electronics,Cash On Delivery,76
+CUS0391,Rahul,Singh,Female,48,Government Employee,98121,Single,Delhi,Delhi,Regular,Groceries,Credit Card,81
+CUS0392,Kiran,Gupta,Male,21,Student,30292,Single,Bangalore,Karnataka,New,Home Appliances,Debit Card,50
+CUS0393,Rohit,Patel,Male,58,Business Owner,65822,Single,Mumbai,Maharashtra,Premium,Home Appliances,Credit Card,83
+CUS0394,Sneha,Iyer,Male,31,Software Engineer,47876,Married,Chennai,Tamil Nadu,Premium,Fashion,Credit Card,43
+CUS0395,Neha,Joshi,Female,43,Business Owner,114045,Married,Chennai,Tamil Nadu,Regular,Fashion,UPI,32
+CUS0396,Priya,Iyer,Female,32,Software Engineer,78339,Married,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,36
+CUS0397,Sneha,Joshi,Male,52,Business Owner,146106,Married,Pune,Maharashtra,Regular,Fitness,UPI,5
+CUS0398,Kiran,Patel,Male,38,Government Employee,247905,Single,Hyderabad,Telangana,Regular,Electronics,Cash On Delivery,92
+CUS0399,Vikram,Verma,Female,48,Doctor,164917,Single,Chennai,Tamil Nadu,Regular,Home Appliances,Debit Card,72
+CUS0400,Sneha,Sharma,Female,55,Homemaker,51792,Married,Delhi,Delhi,Regular,Electronics,Credit Card,35
+CUS0401,Kiran,Patel,Male,50,Doctor,133132,Single,Bangalore,Karnataka,Regular,Home Appliances,Cash On Delivery,59
+CUS0402,Priya,Kumar,Male,29,Sales Executive,57170,Single,Mumbai,Maharashtra,Regular,Fitness,Debit Card,43
+CUS0403,Vikram,Iyer,Female,56,Business Owner,60149,Married,Mumbai,Maharashtra,Regular,Fitness,Credit Card,39
+CUS0404,Neha,Gupta,Female,60,Homemaker,26199,Married,Hyderabad,Telangana,New,Groceries,Credit Card,69
+CUS0405,Vikram,Kumar,Male,28,Teacher,67843,Single,Bangalore,Karnataka,New,Fitness,Credit Card,13
+CUS0406,Kiran,Joshi,Male,27,Teacher,116719,Married,Hyderabad,Telangana,Regular,Fitness,UPI,2
+CUS0407,Arjun,Sharma,Male,38,Doctor,182259,Single,Bangalore,Karnataka,Premium,Fashion,Credit Card,9
+CUS0408,Vikram,Kumar,Male,46,Doctor,99837,Single,Hyderabad,Telangana,New,Fashion,UPI,61
+CUS0409,Arjun,Singh,Female,41,Government Employee,136064,Single,Hyderabad,Telangana,New,Fitness,Cash On Delivery,14
+CUS0410,Aisha,Joshi,Female,49,Government Employee,199650,Married,Delhi,Delhi,Regular,Skincare,UPI,19
+CUS0411,Aisha,Singh,Male,24,Teacher,48836,Single,Pune,Maharashtra,New,Fitness,Credit Card,6
+CUS0412,Priya,Verma,Male,40,Business Owner,209615,Married,Pune,Maharashtra,Regular,Fashion,Debit Card,27
+CUS0413,Rohit,Joshi,Male,25,Teacher,82546,Married,Delhi,Delhi,New,Home Appliances,Cash On Delivery,89
+CUS0414,Vikram,Iyer,Male,35,Sales Executive,112540,Single,Mumbai,Maharashtra,Regular,Fashion,Credit Card,93
+CUS0415,Ananya,Joshi,Female,25,Teacher,37812,Single,Pune,Maharashtra,Regular,Electronics,UPI,36
+CUS0416,Neha,Kumar,Female,44,Doctor,181407,Single,Chennai,Tamil Nadu,Regular,Electronics,UPI,88
+CUS0417,Sneha,Iyer,Female,26,Software Engineer,68895,Single,Pune,Maharashtra,Regular,Fashion,Cash On Delivery,83
+CUS0418,Priya,Patel,Male,29,Software Engineer,80965,Single,Hyderabad,Telangana,Regular,Home Appliances,UPI,76
+CUS0419,Aisha,Singh,Female,58,Homemaker,51858,Married,Delhi,Delhi,Premium,Home Appliances,UPI,73
+CUS0420,Priya,Nair,Male,60,Business Owner,136161,Single,Pune,Maharashtra,Premium,Skincare,UPI,87
+CUS0421,Kiran,Sharma,Female,37,Business Owner,182128,Married,Hyderabad,Telangana,Regular,Fashion,UPI,23
+CUS0422,Priya,Gupta,Female,58,Homemaker,34184,Single,Hyderabad,Telangana,Regular,Skincare,UPI,91
+CUS0423,Vikram,Reddy,Male,51,Homemaker,128472,Single,Pune,Maharashtra,Regular,Skincare,Debit Card,77
+CUS0424,Priya,Verma,Male,19,Student,29711,Married,Mumbai,Maharashtra,Regular,Fitness,Debit Card,77
+CUS0425,Rahul,Iyer,Female,38,Business Owner,173255,Single,Bangalore,Karnataka,New,Skincare,Credit Card,12
+CUS0426,Kiran,Kumar,Male,27,Teacher,98824,Single,Bangalore,Karnataka,Regular,Groceries,Cash On Delivery,21
+CUS0427,Arjun,Nair,Female,42,Government Employee,154059,Married,Hyderabad,Telangana,New,Fitness,Debit Card,80
+CUS0428,Rahul,Nair,Male,25,Software Engineer,30078,Single,Hyderabad,Telangana,Premium,Skincare,Credit Card,21
+CUS0429,Rahul,Reddy,Female,39,Government Employee,152077,Single,Pune,Maharashtra,New,Electronics,Cash On Delivery,73
+CUS0430,Rohit,Nair,Male,24,Software Engineer,88480,Single,Pune,Maharashtra,New,Fashion,UPI,24
+CUS0431,Arjun,Joshi,Female,23,Student,14759,Married,Delhi,Delhi,Regular,Fashion,Cash On Delivery,57
+CUS0432,Ananya,Iyer,Female,58,Homemaker,78008,Single,Hyderabad,Telangana,Regular,Home Appliances,UPI,89
+CUS0433,Arjun,Reddy,Female,54,Homemaker,48231,Single,Mumbai,Maharashtra,Regular,Fashion,Cash On Delivery,62
+CUS0434,Neha,Kumar,Male,57,Homemaker,118121,Single,Pune,Maharashtra,Premium,Groceries,Cash On Delivery,77
+CUS0435,Rahul,Gupta,Female,20,Student,22313,Married,Hyderabad,Telangana,Regular,Groceries,Cash On Delivery,29
+CUS0436,Sneha,Reddy,Male,47,Government Employee,209613,Single,Pune,Maharashtra,Regular,Fashion,Debit Card,30
+CUS0437,Arjun,Gupta,Female,36,Business Owner,220808,Married,Bangalore,Karnataka,Regular,Fitness,Credit Card,30
+CUS0438,Sneha,Gupta,Male,45,Business Owner,124731,Single,Pune,Maharashtra,Regular,Skincare,Credit Card,38
+CUS0439,Ananya,Iyer,Female,32,Software Engineer,90085,Married,Pune,Maharashtra,Regular,Skincare,UPI,24
+CUS0440,Aisha,Joshi,Male,46,Business Owner,103741,Single,Bangalore,Karnataka,Regular,Electronics,Cash On Delivery,40
+CUS0441,Neha,Singh,Male,46,Doctor,180173,Married,Hyderabad,Telangana,New,Fitness,Cash On Delivery,14
+CUS0442,Rahul,Gupta,Female,25,Sales Executive,116019,Single,Hyderabad,Telangana,Premium,Skincare,Debit Card,21
+CUS0443,Rohit,Nair,Male,24,Teacher,50985,Single,Delhi,Delhi,Premium,Electronics,Credit Card,11
+CUS0444,Ananya,Joshi,Male,18,Student,33191,Single,Hyderabad,Telangana,Premium,Electronics,Debit Card,30
+CUS0445,Kiran,Singh,Male,26,Sales Executive,102489,Married,Pune,Maharashtra,Regular,Fitness,UPI,43
+CUS0446,Rohit,Singh,Female,53,Business Owner,128788,Married,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,17
+CUS0447,Ananya,Sharma,Female,55,Homemaker,134053,Single,Hyderabad,Telangana,Regular,Skincare,Debit Card,80
+CUS0448,Neha,Reddy,Male,55,Homemaker,95166,Single,Chennai,Tamil Nadu,Regular,Fashion,UPI,91
+CUS0449,Rahul,Iyer,Female,46,Government Employee,200385,Single,Chennai,Tamil Nadu,Regular,Fitness,Cash On Delivery,95
+CUS0450,Aisha,Joshi,Male,42,Doctor,118671,Single,Bangalore,Karnataka,Regular,Groceries,Cash On Delivery,4
+CUS0451,Aisha,Patel,Female,57,Homemaker,132422,Married,Hyderabad,Telangana,Regular,Groceries,UPI,24
+CUS0452,Vikram,Reddy,Male,20,Student,15331,Single,Delhi,Delhi,Premium,Home Appliances,Debit Card,1
+CUS0453,Rohit,Kumar,Male,23,Student,29820,Single,Mumbai,Maharashtra,Premium,Fashion,UPI,47
+CUS0454,Aisha,Singh,Male,23,Student,18553,Single,Hyderabad,Telangana,Regular,Groceries,UPI,7
+CUS0455,Aisha,Verma,Female,60,Business Owner,30981,Single,Pune,Maharashtra,Regular,Home Appliances,Cash On Delivery,16
+CUS0456,Arjun,Nair,Male,34,Software Engineer,104100,Married,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,99
+CUS0457,Aisha,Joshi,Female,58,Homemaker,118340,Married,Delhi,Delhi,Premium,Electronics,Debit Card,25
+CUS0458,Sneha,Nair,Male,54,Business Owner,71109,Single,Pune,Maharashtra,New,Electronics,UPI,87
+CUS0459,Neha,Iyer,Female,43,Government Employee,161410,Single,Bangalore,Karnataka,Regular,Fashion,UPI,28
+CUS0460,Arjun,Reddy,Male,56,Business Owner,79318,Single,Pune,Maharashtra,New,Electronics,Cash On Delivery,87
+CUS0461,Vikram,Joshi,Female,22,Student,22386,Married,Mumbai,Maharashtra,Premium,Fitness,Debit Card,86
+CUS0462,Vikram,Kumar,Female,46,Doctor,174568,Married,Chennai,Tamil Nadu,Premium,Electronics,Debit Card,90
+CUS0463,Rohit,Singh,Male,32,Teacher,58694,Married,Hyderabad,Telangana,Premium,Fashion,UPI,77
+CUS0464,Rahul,Patel,Male,43,Business Owner,202124,Single,Pune,Maharashtra,Regular,Fitness,Cash On Delivery,79
+CUS0465,Vikram,Reddy,Female,54,Business Owner,52136,Single,Pune,Maharashtra,Premium,Fashion,Debit Card,42
+CUS0466,Rohit,Kumar,Male,36,Doctor,210927,Single,Bangalore,Karnataka,Regular,Fashion,Cash On Delivery,35
+CUS0467,Rahul,Verma,Female,37,Doctor,233609,Married,Mumbai,Maharashtra,New,Electronics,Credit Card,27
+CUS0468,Vikram,Kumar,Male,25,Sales Executive,46592,Married,Hyderabad,Telangana,Regular,Skincare,Credit Card,18
+CUS0469,Ananya,Nair,Male,41,Government Employee,70026,Single,Delhi,Delhi,New,Fitness,Cash On Delivery,58
+CUS0470,Neha,Iyer,Female,24,Teacher,113342,Married,Mumbai,Maharashtra,Premium,Skincare,Credit Card,23
+CUS0471,Neha,Iyer,Female,46,Business Owner,143681,Married,Hyderabad,Telangana,Premium,Groceries,Cash On Delivery,18
+CUS0472,Arjun,Singh,Male,25,Sales Executive,62899,Single,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,91
+CUS0473,Kiran,Verma,Female,42,Business Owner,139891,Married,Bangalore,Karnataka,New,Fashion,Debit Card,24
+CUS0474,Aisha,Joshi,Male,24,Sales Executive,99877,Single,Mumbai,Maharashtra,New,Electronics,Cash On Delivery,47
+CUS0475,Arjun,Reddy,Male,39,Government Employee,153103,Single,Chennai,Tamil Nadu,Premium,Skincare,Cash On Delivery,66
+CUS0476,Vikram,Joshi,Female,21,Student,20938,Married,Pune,Maharashtra,Regular,Electronics,Cash On Delivery,44
+CUS0477,Rahul,Reddy,Male,33,Software Engineer,62454,Single,Pune,Maharashtra,New,Fitness,Cash On Delivery,3
+CUS0478,Neha,Singh,Female,21,Student,20131,Single,Pune,Maharashtra,Regular,Home Appliances,Debit Card,53
+CUS0479,Ananya,Gupta,Male,37,Government Employee,174850,Married,Pune,Maharashtra,Regular,Groceries,UPI,29
+CUS0480,Vikram,Iyer,Male,40,Doctor,208931,Married,Bangalore,Karnataka,Regular,Groceries,UPI,7
+CUS0481,Priya,Iyer,Female,38,Business Owner,78552,Single,Bangalore,Karnataka,Regular,Groceries,Credit Card,41
+CUS0482,Priya,Patel,Female,25,Sales Executive,114689,Single,Bangalore,Karnataka,Premium,Skincare,Debit Card,84
+CUS0483,Rahul,Verma,Male,39,Government Employee,201512,Married,Delhi,Delhi,New,Electronics,UPI,3
+CUS0484,Sneha,Nair,Male,44,Business Owner,152073,Married,Chennai,Tamil Nadu,Regular,Skincare,Cash On Delivery,22
+CUS0485,Priya,Gupta,Female,24,Teacher,78160,Single,Chennai,Tamil Nadu,New,Electronics,UPI,59
+CUS0486,Kiran,Sharma,Male,30,Sales Executive,112595,Married,Bangalore,Karnataka,New,Groceries,Credit Card,95
+CUS0487,Priya,Gupta,Male,36,Business Owner,192975,Single,Mumbai,Maharashtra,Regular,Fashion,Debit Card,17
+CUS0488,Vikram,Reddy,Female,22,Student,10607,Married,Hyderabad,Telangana,Premium,Fashion,Debit Card,38
+CUS0489,Arjun,Iyer,Male,49,Government Employee,200802,Single,Mumbai,Maharashtra,Regular,Fashion,UPI,21
+CUS0490,Rohit,Kumar,Female,40,Doctor,135391,Married,Bangalore,Karnataka,Regular,Skincare,Cash On Delivery,27
+CUS0491,Arjun,Sharma,Female,59,Business Owner,65372,Single,Delhi,Delhi,Regular,Home Appliances,Cash On Delivery,80
+CUS0492,Neha,Nair,Male,35,Software Engineer,37703,Single,Hyderabad,Telangana,Regular,Fitness,UPI,83
+CUS0493,Sneha,Patel,Male,46,Doctor,79878,Single,Bangalore,Karnataka,Premium,Electronics,Cash On Delivery,49
+CUS0494,Rahul,Nair,Male,29,Teacher,103319,Married,Chennai,Tamil Nadu,Premium,Skincare,Cash On Delivery,85
+CUS0495,Neha,Kumar,Female,54,Homemaker,125431,Single,Chennai,Tamil Nadu,Premium,Fitness,Debit Card,10
+CUS0496,Aisha,Patel,Female,50,Business Owner,117495,Single,Pune,Maharashtra,New,Fitness,UPI,85
+CUS0497,Rahul,Gupta,Male,48,Doctor,138028,Married,Pune,Maharashtra,Regular,Electronics,UPI,52
+CUS0498,Sneha,Gupta,Female,22,Student,13390,Single,Chennai,Tamil Nadu,Regular,Home Appliances,UPI,22
+CUS0499,Kiran,Reddy,Male,38,Business Owner,110742,Single,Delhi,Delhi,Regular,Skincare,Credit Card,38
+CUS0500,Neha,Iyer,Male,38,Doctor,148808,Married,Chennai,Tamil Nadu,Regular,Electronics,UPI,91
+CUS0501,Vikram,Verma,Female,37,Doctor,124041,Married,Bangalore,Karnataka,Regular,Fitness,UPI,46
+CUS0502,Arjun,Patel,Female,43,Government Employee,184845,Married,Delhi,Delhi,Regular,Home Appliances,Cash On Delivery,42
+CUS0503,Priya,Kumar,Male,20,Student,10234,Married,Mumbai,Maharashtra,Regular,Fitness,Debit Card,44
+CUS0504,Aisha,Gupta,Female,33,Software Engineer,112635,Married,Pune,Maharashtra,New,Home Appliances,Cash On Delivery,8
+CUS0505,Ananya,Patel,Female,35,Software Engineer,40642,Single,Chennai,Tamil Nadu,Premium,Electronics,Cash On Delivery,71
+CUS0506,Sneha,Gupta,Female,31,Software Engineer,108379,Single,Hyderabad,Telangana,Regular,Electronics,UPI,57
+CUS0507,Rahul,Gupta,Female,26,Teacher,69900,Married,Bangalore,Karnataka,Regular,Fitness,UPI,72
+CUS0508,Rohit,Sharma,Male,21,Student,18908,Single,Chennai,Tamil Nadu,Regular,Skincare,Cash On Delivery,36
+CUS0509,Rohit,Singh,Female,32,Teacher,104095,Single,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,97
+CUS0510,Rohit,Gupta,Female,46,Government Employee,95076,Married,Hyderabad,Telangana,Premium,Skincare,UPI,73
+CUS0511,Neha,Nair,Female,53,Business Owner,103003,Married,Bangalore,Karnataka,New,Fitness,UPI,82
+CUS0512,Kiran,Iyer,Female,56,Homemaker,122178,Single,Mumbai,Maharashtra,Premium,Fitness,Debit Card,4
+CUS0513,Kiran,Gupta,Female,56,Homemaker,143936,Married,Mumbai,Maharashtra,Regular,Home Appliances,Debit Card,82
+CUS0514,Priya,Nair,Male,21,Student,26925,Married,Mumbai,Maharashtra,Regular,Groceries,Credit Card,60
+CUS0515,Vikram,Verma,Female,36,Government Employee,162268,Married,Mumbai,Maharashtra,Premium,Electronics,Cash On Delivery,37
+CUS0516,Ananya,Gupta,Female,51,Homemaker,105395,Single,Hyderabad,Telangana,Regular,Fashion,Debit Card,30
+CUS0517,Ananya,Kumar,Male,46,Government Employee,186439,Single,Hyderabad,Telangana,Premium,Home Appliances,Cash On Delivery,16
+CUS0518,Vikram,Patel,Female,19,Student,19686,Married,Hyderabad,Telangana,Premium,Fashion,Debit Card,62
+CUS0519,Vikram,Sharma,Female,25,Sales Executive,76436,Married,Chennai,Tamil Nadu,New,Groceries,Debit Card,47
+CUS0520,Arjun,Patel,Male,51,Business Owner,88704,Single,Hyderabad,Telangana,Regular,Fashion,Cash On Delivery,2
+CUS0521,Ananya,Gupta,Female,59,Business Owner,73670,Married,Pune,Maharashtra,New,Groceries,Credit Card,26
+CUS0522,Kiran,Patel,Female,45,Government Employee,109348,Single,Chennai,Tamil Nadu,Regular,Fitness,Debit Card,15
+CUS0523,Kiran,Gupta,Female,27,Software Engineer,115301,Single,Pune,Maharashtra,Regular,Home Appliances,Debit Card,62
+CUS0524,Arjun,Gupta,Male,41,Doctor,211077,Married,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,58
+CUS0525,Kiran,Singh,Male,45,Government Employee,221634,Married,Pune,Maharashtra,Regular,Groceries,Debit Card,8
+CUS0526,Kiran,Reddy,Female,48,Government Employee,185396,Single,Chennai,Tamil Nadu,Regular,Home Appliances,Credit Card,38
+CUS0527,Arjun,Joshi,Female,30,Software Engineer,46484,Single,Bangalore,Karnataka,Regular,Fashion,UPI,51
+CUS0528,Sneha,Patel,Male,58,Business Owner,97238,Single,Delhi,Delhi,Regular,Fitness,Debit Card,61
+CUS0529,Neha,Nair,Male,26,Software Engineer,79044,Married,Mumbai,Maharashtra,Regular,Fitness,Cash On Delivery,85
+CUS0530,Priya,Verma,Female,22,Student,23047,Single,Delhi,Delhi,New,Electronics,Credit Card,67
+CUS0531,Kiran,Sharma,Female,44,Government Employee,64674,Single,Bangalore,Karnataka,New,Groceries,Cash On Delivery,55
+CUS0532,Kiran,Reddy,Male,33,Teacher,104484,Single,Hyderabad,Telangana,Regular,Fashion,Cash On Delivery,85
+CUS0533,Sneha,Sharma,Female,34,Software Engineer,99283,Married,Delhi,Delhi,Regular,Home Appliances,Credit Card,29
+CUS0534,Aisha,Nair,Male,33,Teacher,116912,Married,Bangalore,Karnataka,Regular,Fitness,Credit Card,40
+CUS0535,Kiran,Joshi,Female,51,Homemaker,98194,Single,Delhi,Delhi,Regular,Skincare,Credit Card,33
+CUS0536,Rohit,Joshi,Female,60,Homemaker,51399,Married,Bangalore,Karnataka,Regular,Electronics,Cash On Delivery,43
+CUS0537,Priya,Iyer,Female,45,Business Owner,123363,Single,Pune,Maharashtra,New,Groceries,Debit Card,89
+CUS0538,Arjun,Reddy,Male,59,Business Owner,143156,Single,Delhi,Delhi,Premium,Home Appliances,UPI,91
+CUS0539,Rahul,Reddy,Male,25,Teacher,71237,Single,Bangalore,Karnataka,Premium,Electronics,Credit Card,97
+CUS0540,Ananya,Sharma,Female,29,Software Engineer,85122,Single,Hyderabad,Telangana,New,Electronics,Credit Card,18
+CUS0541,Arjun,Verma,Male,56,Business Owner,77114,Married,Bangalore,Karnataka,Regular,Groceries,Debit Card,98
+CUS0542,Ananya,Gupta,Male,47,Business Owner,68198,Single,Pune,Maharashtra,New,Electronics,Cash On Delivery,39
+CUS0543,Vikram,Reddy,Female,57,Homemaker,94229,Married,Delhi,Delhi,Premium,Electronics,Credit Card,67
+CUS0544,Neha,Patel,Female,32,Software Engineer,31080,Married,Chennai,Tamil Nadu,Premium,Fashion,Credit Card,28
+CUS0545,Kiran,Joshi,Male,28,Teacher,69405,Married,Hyderabad,Telangana,Regular,Fitness,UPI,75
+CUS0546,Rohit,Verma,Male,23,Student,16628,Married,Bangalore,Karnataka,Regular,Groceries,Debit Card,3
+CUS0547,Sneha,Kumar,Female,34,Teacher,50714,Single,Bangalore,Karnataka,Premium,Fashion,UPI,28
+CUS0548,Priya,Iyer,Female,46,Government Employee,167806,Single,Hyderabad,Telangana,Regular,Fitness,Credit Card,2
+CUS0549,Priya,Singh,Male,22,Student,14425,Single,Hyderabad,Telangana,Regular,Home Appliances,Cash On Delivery,91
+CUS0550,Kiran,Nair,Female,42,Business Owner,141610,Married,Delhi,Delhi,Regular,Groceries,Debit Card,30
+CUS0551,Arjun,Reddy,Male,46,Doctor,194793,Single,Hyderabad,Telangana,Regular,Home Appliances,Debit Card,30
+CUS0552,Rahul,Iyer,Female,18,Student,10684,Married,Mumbai,Maharashtra,New,Groceries,Debit Card,46
+CUS0553,Rohit,Patel,Male,31,Teacher,77820,Married,Chennai,Tamil Nadu,Regular,Fitness,Debit Card,14
+CUS0554,Ananya,Iyer,Male,56,Business Owner,28400,Married,Mumbai,Maharashtra,Premium,Fashion,Cash On Delivery,19
+CUS0555,Vikram,Verma,Male,44,Government Employee,99570,Single,Pune,Maharashtra,New,Groceries,UPI,91
+CUS0556,Neha,Joshi,Female,20,Student,12440,Single,Bangalore,Karnataka,Regular,Groceries,Credit Card,6
+CUS0557,Ananya,Iyer,Female,27,Teacher,104183,Single,Mumbai,Maharashtra,Regular,Fitness,Credit Card,67
+CUS0558,Ananya,Iyer,Male,53,Business Owner,43589,Married,Delhi,Delhi,Regular,Electronics,Cash On Delivery,9
+CUS0559,Arjun,Reddy,Female,50,Business Owner,90796,Single,Pune,Maharashtra,Regular,Skincare,UPI,70
+CUS0560,Priya,Kumar,Male,21,Student,22427,Married,Pune,Maharashtra,Regular,Home Appliances,UPI,8
+CUS0561,Vikram,Singh,Male,29,Teacher,116797,Married,Mumbai,Maharashtra,Premium,Groceries,Cash On Delivery,97
+CUS0562,Rahul,Iyer,Female,52,Homemaker,140808,Single,Hyderabad,Telangana,Regular,Fashion,Cash On Delivery,24
+CUS0563,Ananya,Iyer,Female,44,Business Owner,183655,Married,Chennai,Tamil Nadu,Regular,Skincare,Debit Card,51
+CUS0564,Rohit,Singh,Female,48,Business Owner,76081,Single,Hyderabad,Telangana,Regular,Electronics,Debit Card,44
+CUS0565,Priya,Joshi,Male,35,Sales Executive,81979,Married,Chennai,Tamil Nadu,Regular,Home Appliances,UPI,38
+CUS0566,Rahul,Sharma,Male,31,Sales Executive,70854,Married,Pune,Maharashtra,Premium,Fashion,UPI,71
+CUS0567,Ananya,Gupta,Male,47,Government Employee,189337,Married,Delhi,Delhi,Premium,Skincare,UPI,16
+CUS0568,Neha,Iyer,Female,53,Business Owner,37117,Single,Chennai,Tamil Nadu,New,Electronics,Debit Card,59
+CUS0569,Priya,Gupta,Female,26,Sales Executive,118279,Married,Hyderabad,Telangana,Regular,Electronics,Debit Card,59
+CUS0570,Rahul,Kumar,Male,21,Student,29931,Single,Pune,Maharashtra,Regular,Home Appliances,Debit Card,31
+CUS0571,Kiran,Patel,Male,60,Business Owner,42716,Married,Pune,Maharashtra,Regular,Fashion,UPI,63
+CUS0572,Aisha,Patel,Female,27,Sales Executive,30842,Married,Chennai,Tamil Nadu,New,Home Appliances,UPI,12
+CUS0573,Ananya,Nair,Female,37,Government Employee,227222,Married,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,86
+CUS0574,Vikram,Joshi,Female,52,Business Owner,74088,Married,Pune,Maharashtra,Premium,Electronics,Debit Card,26
+CUS0575,Rohit,Iyer,Female,35,Teacher,119079,Single,Hyderabad,Telangana,Regular,Groceries,Credit Card,77
+CUS0576,Kiran,Gupta,Female,57,Business Owner,144166,Single,Chennai,Tamil Nadu,Premium,Home Appliances,Debit Card,56
+CUS0577,Sneha,Reddy,Male,60,Homemaker,44479,Single,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,61
+CUS0578,Vikram,Patel,Female,32,Software Engineer,117047,Single,Delhi,Delhi,New,Home Appliances,Cash On Delivery,32
+CUS0579,Aisha,Reddy,Male,45,Government Employee,232762,Married,Chennai,Tamil Nadu,New,Skincare,Credit Card,19
+CUS0580,Arjun,Kumar,Female,59,Homemaker,26058,Single,Chennai,Tamil Nadu,New,Home Appliances,Debit Card,31
+CUS0581,Aisha,Singh,Female,18,Student,17365,Single,Bangalore,Karnataka,New,Fitness,Cash On Delivery,35
+CUS0582,Rahul,Iyer,Male,57,Business Owner,26933,Married,Mumbai,Maharashtra,Regular,Fitness,UPI,92
+CUS0583,Rohit,Patel,Male,25,Sales Executive,42578,Single,Chennai,Tamil Nadu,Regular,Fashion,UPI,69
+CUS0584,Neha,Nair,Male,51,Business Owner,45522,Married,Delhi,Delhi,Regular,Home Appliances,Cash On Delivery,25
+CUS0585,Neha,Iyer,Male,43,Business Owner,187680,Single,Hyderabad,Telangana,Regular,Electronics,UPI,53
+CUS0586,Ananya,Verma,Female,53,Business Owner,115801,Single,Pune,Maharashtra,New,Fitness,Debit Card,64
+CUS0587,Aisha,Nair,Female,35,Software Engineer,88583,Married,Delhi,Delhi,Premium,Fitness,UPI,39
+CUS0588,Arjun,Singh,Male,53,Business Owner,71177,Single,Bangalore,Karnataka,Regular,Home Appliances,Credit Card,27
+CUS0589,Rohit,Patel,Male,39,Doctor,156817,Single,Delhi,Delhi,Regular,Electronics,Debit Card,74
+CUS0590,Aisha,Patel,Male,50,Business Owner,135116,Single,Bangalore,Karnataka,Premium,Fitness,Debit Card,67
+CUS0591,Arjun,Patel,Male,37,Government Employee,214394,Married,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,27
+CUS0592,Rahul,Singh,Male,42,Government Employee,97992,Married,Delhi,Delhi,Regular,Fashion,Cash On Delivery,59
+CUS0593,Rohit,Reddy,Male,44,Business Owner,69500,Married,Pune,Maharashtra,Regular,Fitness,Debit Card,18
+CUS0594,Arjun,Gupta,Male,51,Homemaker,146399,Single,Pune,Maharashtra,Premium,Fitness,Cash On Delivery,40
+CUS0595,Priya,Patel,Male,24,Software Engineer,114332,Married,Pune,Maharashtra,New,Electronics,Credit Card,8
+CUS0596,Ananya,Sharma,Male,57,Business Owner,76228,Single,Bangalore,Karnataka,Regular,Groceries,UPI,87
+CUS0597,Arjun,Joshi,Female,38,Government Employee,156314,Married,Pune,Maharashtra,Premium,Electronics,Credit Card,58
+CUS0598,Rahul,Patel,Male,42,Doctor,248681,Single,Hyderabad,Telangana,Premium,Electronics,Credit Card,13
+CUS0599,Aisha,Patel,Female,25,Sales Executive,86338,Single,Pune,Maharashtra,Regular,Electronics,UPI,23
+CUS0600,Sneha,Singh,Female,57,Homemaker,119078,Single,Mumbai,Maharashtra,New,Home Appliances,Cash On Delivery,100
+CUS0601,Aisha,Reddy,Male,30,Sales Executive,65950,Married,Mumbai,Maharashtra,Regular,Electronics,Debit Card,12
+CUS0602,Rahul,Reddy,Female,31,Software Engineer,102404,Single,Hyderabad,Telangana,Premium,Electronics,Debit Card,100
+CUS0603,Rohit,Sharma,Male,43,Doctor,119716,Married,Mumbai,Maharashtra,Premium,Fitness,UPI,22
+CUS0604,Sneha,Gupta,Male,25,Teacher,34020,Single,Delhi,Delhi,Regular,Home Appliances,Cash On Delivery,62
+CUS0605,Kiran,Joshi,Male,36,Business Owner,74887,Married,Pune,Maharashtra,Regular,Fitness,UPI,10
+CUS0606,Kiran,Singh,Male,25,Teacher,114243,Married,Bangalore,Karnataka,New,Groceries,Cash On Delivery,3
+CUS0607,Arjun,Nair,Female,22,Student,16367,Married,Hyderabad,Telangana,Regular,Fitness,Cash On Delivery,57
+CUS0608,Arjun,Kumar,Female,24,Software Engineer,88432,Married,Mumbai,Maharashtra,Premium,Groceries,Debit Card,80
+CUS0609,Kiran,Iyer,Female,32,Software Engineer,77900,Single,Mumbai,Maharashtra,Premium,Fitness,Credit Card,55
+CUS0610,Kiran,Nair,Female,54,Homemaker,112623,Single,Hyderabad,Telangana,New,Skincare,Debit Card,98
+CUS0611,Priya,Patel,Female,49,Government Employee,145576,Single,Bangalore,Karnataka,Regular,Groceries,Cash On Delivery,85
+CUS0612,Neha,Singh,Male,25,Teacher,70303,Married,Delhi,Delhi,Regular,Skincare,Credit Card,2
+CUS0613,Rohit,Reddy,Female,21,Student,12051,Single,Pune,Maharashtra,Regular,Fashion,Debit Card,43
+CUS0614,Vikram,Verma,Female,31,Software Engineer,67156,Single,Mumbai,Maharashtra,Premium,Home Appliances,Debit Card,43
+CUS0615,Kiran,Gupta,Female,50,Government Employee,185446,Single,Chennai,Tamil Nadu,Premium,Home Appliances,UPI,55
+CUS0616,Aisha,Patel,Male,21,Student,26942,Married,Bangalore,Karnataka,Regular,Fitness,Credit Card,23
+CUS0617,Ananya,Joshi,Female,34,Sales Executive,87833,Single,Delhi,Delhi,Regular,Home Appliances,UPI,35
+CUS0618,Kiran,Reddy,Female,52,Business Owner,27566,Married,Pune,Maharashtra,Regular,Home Appliances,UPI,71
+CUS0619,Kiran,Nair,Female,34,Teacher,48331,Single,Mumbai,Maharashtra,Premium,Fashion,Debit Card,68
+CUS0620,Vikram,Iyer,Female,45,Doctor,208330,Married,Pune,Maharashtra,Regular,Groceries,Cash On Delivery,47
+CUS0621,Ananya,Kumar,Male,50,Business Owner,137154,Single,Chennai,Tamil Nadu,Premium,Groceries,Credit Card,40
+CUS0622,Sneha,Sharma,Male,56,Business Owner,28620,Married,Chennai,Tamil Nadu,Premium,Groceries,Cash On Delivery,47
+CUS0623,Vikram,Nair,Female,18,Student,31500,Married,Hyderabad,Telangana,Regular,Groceries,Credit Card,17
+CUS0624,Aisha,Verma,Male,26,Sales Executive,73981,Married,Hyderabad,Telangana,Regular,Skincare,Credit Card,56
+CUS0625,Priya,Gupta,Female,39,Business Owner,238431,Married,Hyderabad,Telangana,Regular,Home Appliances,UPI,91
+CUS0626,Neha,Gupta,Male,20,Student,24901,Single,Pune,Maharashtra,Regular,Fashion,Debit Card,74
+CUS0627,Priya,Nair,Female,48,Business Owner,132460,Married,Hyderabad,Telangana,Regular,Fashion,Cash On Delivery,12
+CUS0628,Rohit,Singh,Male,21,Student,10454,Single,Pune,Maharashtra,Regular,Skincare,UPI,62
+CUS0629,Arjun,Iyer,Male,26,Sales Executive,82325,Single,Delhi,Delhi,Regular,Skincare,Cash On Delivery,63
+CUS0630,Sneha,Nair,Female,27,Sales Executive,72460,Single,Chennai,Tamil Nadu,New,Groceries,Credit Card,16
+CUS0631,Vikram,Patel,Female,50,Doctor,191095,Single,Hyderabad,Telangana,Regular,Skincare,UPI,63
+CUS0632,Neha,Verma,Male,58,Business Owner,45139,Single,Hyderabad,Telangana,Regular,Skincare,Cash On Delivery,80
+CUS0633,Rohit,Verma,Female,23,Student,28579,Single,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,16
+CUS0634,Rahul,Sharma,Male,28,Sales Executive,92337,Single,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,43
+CUS0635,Ananya,Iyer,Male,26,Teacher,49612,Single,Hyderabad,Telangana,Premium,Electronics,Cash On Delivery,49
+CUS0636,Priya,Sharma,Female,47,Doctor,204362,Single,Pune,Maharashtra,Premium,Fashion,UPI,22
+CUS0637,Rohit,Kumar,Female,33,Teacher,58873,Single,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,54
+CUS0638,Priya,Nair,Male,31,Teacher,101947,Single,Delhi,Delhi,Regular,Groceries,UPI,44
+CUS0639,Kiran,Sharma,Male,23,Student,12985,Married,Chennai,Tamil Nadu,Regular,Skincare,Debit Card,89
+CUS0640,Neha,Patel,Female,29,Software Engineer,83430,Married,Delhi,Delhi,Regular,Groceries,Credit Card,52
+CUS0641,Vikram,Sharma,Male,25,Sales Executive,79110,Married,Pune,Maharashtra,Regular,Electronics,Debit Card,27
+CUS0642,Ananya,Nair,Male,58,Homemaker,63010,Married,Hyderabad,Telangana,New,Skincare,Cash On Delivery,71
+CUS0643,Neha,Joshi,Female,54,Homemaker,100471,Married,Chennai,Tamil Nadu,Premium,Fitness,Credit Card,10
+CUS0644,Vikram,Kumar,Male,35,Software Engineer,108354,Married,Pune,Maharashtra,Premium,Fitness,Cash On Delivery,80
+CUS0645,Rohit,Kumar,Female,20,Student,19565,Married,Pune,Maharashtra,Premium,Groceries,UPI,79
+CUS0646,Rohit,Reddy,Male,24,Software Engineer,48984,Single,Mumbai,Maharashtra,Premium,Fashion,Debit Card,93
+CUS0647,Vikram,Verma,Female,57,Homemaker,105922,Single,Pune,Maharashtra,Regular,Fashion,UPI,78
+CUS0648,Rahul,Gupta,Female,19,Student,33548,Single,Pune,Maharashtra,New,Electronics,Credit Card,33
+CUS0649,Arjun,Verma,Female,36,Government Employee,213854,Married,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,53
+CUS0650,Kiran,Joshi,Female,36,Government Employee,245157,Married,Mumbai,Maharashtra,Regular,Home Appliances,Debit Card,6
+CUS0651,Neha,Nair,Female,53,Business Owner,132262,Single,Hyderabad,Telangana,Regular,Skincare,Credit Card,93
+CUS0652,Sneha,Verma,Male,45,Business Owner,123307,Single,Delhi,Delhi,Premium,Skincare,Cash On Delivery,31
+CUS0653,Vikram,Reddy,Female,30,Sales Executive,112785,Married,Delhi,Delhi,Regular,Groceries,Debit Card,48
+CUS0654,Rahul,Iyer,Male,42,Doctor,237848,Single,Bangalore,Karnataka,Regular,Fitness,Debit Card,72
+CUS0655,Aisha,Sharma,Male,38,Doctor,50889,Single,Delhi,Delhi,Regular,Fitness,Debit Card,17
+CUS0656,Rahul,Nair,Male,43,Government Employee,139132,Married,Delhi,Delhi,Regular,Fashion,Cash On Delivery,32
+CUS0657,Neha,Nair,Female,31,Teacher,56716,Single,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,46
+CUS0658,Vikram,Reddy,Female,60,Homemaker,129862,Married,Hyderabad,Telangana,Regular,Fashion,UPI,91
+CUS0659,Kiran,Nair,Male,39,Business Owner,247272,Married,Mumbai,Maharashtra,New,Electronics,Cash On Delivery,99
+CUS0660,Rahul,Reddy,Female,29,Sales Executive,93678,Single,Hyderabad,Telangana,Regular,Skincare,UPI,18
+CUS0661,Rahul,Sharma,Male,32,Teacher,46483,Married,Pune,Maharashtra,Regular,Fitness,UPI,32
+CUS0662,Aisha,Nair,Male,44,Government Employee,151943,Single,Mumbai,Maharashtra,Regular,Groceries,Cash On Delivery,61
+CUS0663,Rohit,Singh,Female,22,Student,25817,Married,Bangalore,Karnataka,New,Groceries,Debit Card,59
+CUS0664,Arjun,Gupta,Male,20,Student,23109,Married,Bangalore,Karnataka,Regular,Fashion,UPI,78
+CUS0665,Rohit,Gupta,Male,59,Business Owner,27496,Single,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,17
+CUS0666,Neha,Reddy,Male,50,Business Owner,181104,Married,Chennai,Tamil Nadu,Premium,Skincare,Cash On Delivery,34
+CUS0667,Arjun,Nair,Male,31,Software Engineer,80699,Married,Delhi,Delhi,Regular,Electronics,Cash On Delivery,53
+CUS0668,Sneha,Verma,Male,25,Software Engineer,93874,Single,Pune,Maharashtra,Regular,Skincare,Credit Card,33
+CUS0669,Aisha,Reddy,Male,21,Student,27577,Single,Hyderabad,Telangana,New,Groceries,UPI,93
+CUS0670,Rohit,Verma,Female,43,Government Employee,145794,Married,Bangalore,Karnataka,Regular,Fitness,Cash On Delivery,34
+CUS0671,Ananya,Gupta,Male,51,Business Owner,137757,Single,Bangalore,Karnataka,Regular,Skincare,Credit Card,37
+CUS0672,Rahul,Patel,Female,44,Doctor,103049,Married,Delhi,Delhi,Premium,Groceries,Credit Card,1
+CUS0673,Kiran,Patel,Male,50,Doctor,220204,Single,Mumbai,Maharashtra,Regular,Skincare,Cash On Delivery,88
+CUS0674,Sneha,Singh,Female,23,Student,30524,Single,Chennai,Tamil Nadu,Premium,Groceries,Credit Card,10
+CUS0675,Arjun,Joshi,Female,25,Software Engineer,60185,Married,Bangalore,Karnataka,Premium,Home Appliances,Debit Card,15
+CUS0676,Ananya,Verma,Male,42,Business Owner,230051,Married,Pune,Maharashtra,Regular,Fitness,Cash On Delivery,84
+CUS0677,Arjun,Nair,Male,24,Teacher,58560,Single,Delhi,Delhi,Regular,Fitness,UPI,41
+CUS0678,Arjun,Sharma,Female,32,Sales Executive,94680,Married,Pune,Maharashtra,Regular,Groceries,UPI,20
+CUS0679,Aisha,Nair,Female,20,Student,16261,Married,Mumbai,Maharashtra,Regular,Fashion,Credit Card,61
+CUS0680,Priya,Verma,Male,43,Doctor,57589,Single,Bangalore,Karnataka,Regular,Electronics,Credit Card,59
+CUS0681,Kiran,Iyer,Male,18,Student,30814,Married,Hyderabad,Telangana,Premium,Skincare,Cash On Delivery,8
+CUS0682,Aisha,Gupta,Male,60,Homemaker,96532,Married,Bangalore,Karnataka,Regular,Skincare,Cash On Delivery,8
+CUS0683,Arjun,Kumar,Female,31,Software Engineer,97702,Married,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,88
+CUS0684,Sneha,Verma,Male,42,Business Owner,225641,Married,Bangalore,Karnataka,Regular,Groceries,Credit Card,80
+CUS0685,Neha,Gupta,Male,36,Business Owner,225531,Married,Delhi,Delhi,Regular,Electronics,UPI,37
+CUS0686,Aisha,Iyer,Female,27,Software Engineer,114944,Married,Bangalore,Karnataka,Regular,Groceries,UPI,67
+CUS0687,Kiran,Joshi,Male,27,Sales Executive,115031,Married,Hyderabad,Telangana,Regular,Fitness,Debit Card,78
+CUS0688,Arjun,Patel,Male,30,Teacher,34667,Married,Bangalore,Karnataka,Regular,Skincare,Credit Card,58
+CUS0689,Vikram,Singh,Female,30,Teacher,50865,Single,Delhi,Delhi,Regular,Fashion,Credit Card,23
+CUS0690,Priya,Kumar,Female,46,Business Owner,83810,Single,Pune,Maharashtra,New,Groceries,Credit Card,37
+CUS0691,Rohit,Kumar,Male,24,Sales Executive,62495,Single,Chennai,Tamil Nadu,New,Fitness,Credit Card,93
+CUS0692,Priya,Kumar,Male,41,Business Owner,235088,Single,Mumbai,Maharashtra,Premium,Skincare,Credit Card,52
+CUS0693,Aisha,Nair,Male,50,Government Employee,198907,Single,Delhi,Delhi,Regular,Fashion,Cash On Delivery,61
+CUS0694,Neha,Nair,Female,37,Business Owner,230863,Single,Chennai,Tamil Nadu,New,Fitness,Credit Card,91
+CUS0695,Kiran,Gupta,Male,34,Software Engineer,32657,Married,Hyderabad,Telangana,Premium,Fitness,UPI,66
+CUS0696,Rohit,Joshi,Female,43,Doctor,119380,Married,Bangalore,Karnataka,Premium,Fashion,UPI,32
+CUS0697,Neha,Verma,Female,19,Student,14615,Married,Mumbai,Maharashtra,Premium,Groceries,Debit Card,57
+CUS0698,Ananya,Sharma,Female,36,Business Owner,184808,Single,Bangalore,Karnataka,Premium,Electronics,Debit Card,16
+CUS0699,Priya,Iyer,Female,45,Business Owner,114638,Single,Delhi,Delhi,New,Fitness,Cash On Delivery,73
+CUS0700,Ananya,Joshi,Male,50,Government Employee,194115,Single,Delhi,Delhi,Regular,Home Appliances,UPI,54
+CUS0701,Kiran,Joshi,Female,41,Government Employee,151425,Married,Hyderabad,Telangana,Regular,Fitness,UPI,10
+CUS0702,Vikram,Nair,Female,53,Homemaker,67553,Single,Delhi,Delhi,Regular,Electronics,Debit Card,5
+CUS0703,Sneha,Joshi,Male,41,Business Owner,77480,Married,Mumbai,Maharashtra,Regular,Electronics,Debit Card,6
+CUS0704,Rohit,Reddy,Male,30,Software Engineer,97961,Married,Chennai,Tamil Nadu,New,Fitness,Cash On Delivery,25
+CUS0705,Priya,Joshi,Male,57,Homemaker,38994,Married,Chennai,Tamil Nadu,New,Skincare,UPI,54
+CUS0706,Sneha,Joshi,Female,37,Business Owner,190992,Married,Delhi,Delhi,Regular,Fitness,UPI,83
+CUS0707,Rahul,Singh,Female,53,Homemaker,64524,Married,Mumbai,Maharashtra,Regular,Home Appliances,Cash On Delivery,63
+CUS0708,Rahul,Iyer,Female,60,Homemaker,75268,Single,Bangalore,Karnataka,Regular,Home Appliances,UPI,65
+CUS0709,Neha,Sharma,Male,55,Homemaker,114347,Single,Chennai,Tamil Nadu,New,Fashion,UPI,3
+CUS0710,Priya,Patel,Female,54,Business Owner,142847,Married,Pune,Maharashtra,Premium,Home Appliances,UPI,28
+CUS0711,Ananya,Sharma,Female,54,Business Owner,103796,Single,Hyderabad,Telangana,Regular,Skincare,Credit Card,72
+CUS0712,Priya,Reddy,Female,29,Sales Executive,101632,Single,Delhi,Delhi,Premium,Fashion,Credit Card,46
+CUS0713,Kiran,Reddy,Male,31,Sales Executive,97585,Single,Bangalore,Karnataka,Regular,Groceries,Debit Card,25
+CUS0714,Sneha,Patel,Female,28,Sales Executive,103469,Single,Chennai,Tamil Nadu,Regular,Groceries,Credit Card,15
+CUS0715,Rohit,Iyer,Male,30,Sales Executive,73730,Single,Delhi,Delhi,New,Groceries,Cash On Delivery,56
+CUS0716,Rahul,Joshi,Male,31,Teacher,118595,Single,Chennai,Tamil Nadu,Regular,Groceries,Credit Card,81
+CUS0717,Sneha,Joshi,Male,45,Business Owner,126642,Married,Mumbai,Maharashtra,Regular,Skincare,Credit Card,48
+CUS0718,Kiran,Nair,Male,39,Government Employee,249365,Married,Bangalore,Karnataka,Regular,Home Appliances,UPI,68
+CUS0719,Arjun,Singh,Male,43,Business Owner,180500,Married,Chennai,Tamil Nadu,Premium,Groceries,Credit Card,10
+CUS0720,Neha,Singh,Female,27,Sales Executive,113728,Married,Hyderabad,Telangana,New,Skincare,Debit Card,100
+CUS0721,Priya,Sharma,Male,27,Software Engineer,65719,Married,Mumbai,Maharashtra,New,Groceries,Credit Card,75
+CUS0722,Priya,Patel,Male,51,Business Owner,135384,Married,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,19
+CUS0723,Sneha,Sharma,Male,33,Software Engineer,99246,Single,Bangalore,Karnataka,Premium,Fitness,Credit Card,46
+CUS0724,Ananya,Patel,Female,23,Student,11550,Married,Hyderabad,Telangana,Regular,Fitness,Debit Card,52
+CUS0725,Rahul,Kumar,Male,40,Business Owner,55214,Single,Delhi,Delhi,Premium,Fitness,Cash On Delivery,68
+CUS0726,Priya,Reddy,Female,35,Teacher,71978,Married,Delhi,Delhi,Premium,Fashion,Cash On Delivery,15
+CUS0727,Rohit,Singh,Male,36,Government Employee,133879,Married,Delhi,Delhi,New,Groceries,Debit Card,25
+CUS0728,Arjun,Verma,Male,47,Government Employee,204705,Single,Pune,Maharashtra,Regular,Skincare,Cash On Delivery,45
+CUS0729,Kiran,Singh,Female,44,Government Employee,59943,Married,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,68
+CUS0730,Arjun,Patel,Male,33,Sales Executive,103014,Single,Bangalore,Karnataka,Premium,Fitness,Debit Card,75
+CUS0731,Sneha,Reddy,Female,28,Sales Executive,75160,Married,Bangalore,Karnataka,Premium,Skincare,Credit Card,51
+CUS0732,Priya,Verma,Female,50,Doctor,188238,Single,Mumbai,Maharashtra,Regular,Groceries,Credit Card,18
+CUS0733,Kiran,Nair,Female,53,Homemaker,136084,Single,Hyderabad,Telangana,New,Groceries,Cash On Delivery,21
+CUS0734,Rahul,Sharma,Female,21,Student,30169,Single,Bangalore,Karnataka,Premium,Fitness,Credit Card,49
+CUS0735,Kiran,Reddy,Female,48,Business Owner,180481,Married,Bangalore,Karnataka,Regular,Fashion,Credit Card,57
+CUS0736,Rahul,Gupta,Male,23,Student,19727,Single,Mumbai,Maharashtra,Regular,Electronics,Credit Card,95
+CUS0737,Neha,Patel,Male,37,Doctor,71687,Married,Mumbai,Maharashtra,Regular,Skincare,Cash On Delivery,26
+CUS0738,Rohit,Reddy,Female,29,Sales Executive,115034,Single,Chennai,Tamil Nadu,New,Fashion,Cash On Delivery,44
+CUS0739,Kiran,Singh,Male,53,Homemaker,28060,Single,Mumbai,Maharashtra,New,Home Appliances,Cash On Delivery,2
+CUS0740,Sneha,Iyer,Female,30,Teacher,99315,Single,Pune,Maharashtra,Premium,Skincare,Credit Card,44
+CUS0741,Rahul,Nair,Male,26,Teacher,106410,Single,Chennai,Tamil Nadu,New,Skincare,Debit Card,26
+CUS0742,Sneha,Iyer,Male,28,Teacher,59008,Single,Chennai,Tamil Nadu,Regular,Electronics,UPI,67
+CUS0743,Aisha,Iyer,Female,40,Government Employee,107740,Single,Mumbai,Maharashtra,Premium,Fashion,Debit Card,10
+CUS0744,Ananya,Nair,Male,30,Teacher,83039,Married,Delhi,Delhi,Regular,Skincare,UPI,74
+CUS0745,Vikram,Joshi,Male,52,Business Owner,111634,Married,Mumbai,Maharashtra,New,Fashion,Credit Card,10
+CUS0746,Arjun,Verma,Female,35,Teacher,54748,Single,Delhi,Delhi,Premium,Electronics,Credit Card,83
+CUS0747,Arjun,Sharma,Female,32,Sales Executive,108544,Married,Chennai,Tamil Nadu,Regular,Home Appliances,Credit Card,45
+CUS0748,Priya,Reddy,Female,22,Student,11883,Single,Bangalore,Karnataka,New,Fashion,Credit Card,59
+CUS0749,Sneha,Joshi,Female,44,Business Owner,198493,Married,Hyderabad,Telangana,Regular,Skincare,Debit Card,16
+CUS0750,Kiran,Kumar,Female,43,Government Employee,86565,Married,Pune,Maharashtra,Regular,Electronics,Cash On Delivery,52
+CUS0751,Kiran,Sharma,Male,32,Sales Executive,49012,Married,Mumbai,Maharashtra,Premium,Groceries,Credit Card,94
+CUS0752,Neha,Iyer,Female,35,Teacher,41049,Single,Bangalore,Karnataka,New,Groceries,Debit Card,32
+CUS0753,Rahul,Sharma,Male,42,Business Owner,118250,Married,Chennai,Tamil Nadu,New,Groceries,Cash On Delivery,72
+CUS0754,Aisha,Verma,Female,39,Government Employee,120940,Single,Mumbai,Maharashtra,Premium,Fitness,UPI,59
+CUS0755,Kiran,Singh,Male,37,Government Employee,157146,Married,Bangalore,Karnataka,Premium,Fashion,Cash On Delivery,28
+CUS0756,Priya,Sharma,Female,28,Teacher,83907,Single,Mumbai,Maharashtra,New,Fashion,Credit Card,74
+CUS0757,Rahul,Singh,Female,41,Government Employee,194121,Married,Pune,Maharashtra,New,Fashion,UPI,20
+CUS0758,Priya,Singh,Female,40,Business Owner,153259,Single,Mumbai,Maharashtra,New,Groceries,Cash On Delivery,46
+CUS0759,Rahul,Nair,Male,18,Student,29261,Married,Pune,Maharashtra,New,Skincare,Debit Card,14
+CUS0760,Ananya,Joshi,Female,45,Government Employee,194073,Married,Mumbai,Maharashtra,Premium,Fitness,Credit Card,62
+CUS0761,Priya,Nair,Female,37,Business Owner,200524,Single,Pune,Maharashtra,Regular,Fitness,Debit Card,51
+CUS0762,Vikram,Joshi,Male,36,Business Owner,96855,Single,Bangalore,Karnataka,Regular,Fitness,Credit Card,12
+CUS0763,Arjun,Kumar,Male,42,Government Employee,61352,Single,Hyderabad,Telangana,Regular,Groceries,Cash On Delivery,81
+CUS0764,Neha,Patel,Female,32,Sales Executive,115635,Single,Mumbai,Maharashtra,Premium,Fitness,Cash On Delivery,79
+CUS0765,Vikram,Singh,Male,60,Business Owner,109626,Single,Mumbai,Maharashtra,Premium,Fitness,Debit Card,77
+CUS0766,Arjun,Verma,Male,52,Business Owner,149715,Single,Chennai,Tamil Nadu,Regular,Skincare,Cash On Delivery,9
+CUS0767,Rahul,Singh,Male,46,Business Owner,142732,Married,Chennai,Tamil Nadu,Premium,Electronics,UPI,66
+CUS0768,Vikram,Patel,Male,49,Government Employee,153188,Single,Hyderabad,Telangana,Regular,Fashion,Cash On Delivery,97
+CUS0769,Kiran,Sharma,Male,58,Business Owner,78499,Married,Hyderabad,Telangana,Regular,Fashion,Credit Card,95
+CUS0770,Rohit,Singh,Female,48,Business Owner,210094,Single,Hyderabad,Telangana,Premium,Fitness,Debit Card,7
+CUS0771,Priya,Verma,Female,60,Homemaker,106532,Married,Chennai,Tamil Nadu,Premium,Skincare,UPI,47
+CUS0772,Neha,Gupta,Male,30,Software Engineer,58208,Married,Delhi,Delhi,New,Home Appliances,Credit Card,17
+CUS0773,Kiran,Nair,Male,43,Government Employee,90800,Married,Delhi,Delhi,Premium,Electronics,Cash On Delivery,93
+CUS0774,Priya,Iyer,Female,55,Business Owner,94021,Single,Hyderabad,Telangana,Regular,Groceries,UPI,82
+CUS0775,Aisha,Nair,Female,35,Sales Executive,39466,Single,Hyderabad,Telangana,Premium,Home Appliances,Debit Card,98
+CUS0776,Vikram,Patel,Female,35,Software Engineer,103586,Single,Delhi,Delhi,Premium,Electronics,Credit Card,20
+CUS0777,Ananya,Reddy,Female,20,Student,32449,Single,Bangalore,Karnataka,Regular,Fitness,Debit Card,19
+CUS0778,Rahul,Iyer,Male,20,Student,23125,Single,Mumbai,Maharashtra,Premium,Fitness,Credit Card,23
+CUS0779,Kiran,Verma,Female,59,Homemaker,129545,Single,Hyderabad,Telangana,Regular,Electronics,Debit Card,10
+CUS0780,Ananya,Sharma,Male,28,Teacher,82252,Single,Bangalore,Karnataka,Regular,Skincare,Debit Card,41
+CUS0781,Neha,Kumar,Female,27,Teacher,32566,Single,Pune,Maharashtra,New,Groceries,UPI,71
+CUS0782,Neha,Nair,Male,44,Government Employee,165130,Married,Pune,Maharashtra,New,Home Appliances,Debit Card,90
+CUS0783,Priya,Joshi,Male,47,Government Employee,132439,Married,Delhi,Delhi,New,Fitness,UPI,54
+CUS0784,Ananya,Kumar,Female,28,Teacher,106368,Single,Bangalore,Karnataka,Premium,Electronics,UPI,75
+CUS0785,Aisha,Reddy,Male,20,Student,12007,Single,Mumbai,Maharashtra,New,Fashion,Cash On Delivery,45
+CUS0786,Vikram,Patel,Female,59,Business Owner,96564,Married,Bangalore,Karnataka,Premium,Skincare,UPI,89
+CUS0787,Vikram,Iyer,Female,18,Student,21536,Married,Delhi,Delhi,New,Fashion,Debit Card,92
+CUS0788,Sneha,Patel,Male,56,Business Owner,56399,Married,Chennai,Tamil Nadu,New,Electronics,UPI,48
+CUS0789,Aisha,Iyer,Female,51,Homemaker,36939,Single,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,13
+CUS0790,Neha,Singh,Male,29,Sales Executive,87473,Single,Mumbai,Maharashtra,Regular,Groceries,Cash On Delivery,61
+CUS0791,Aisha,Singh,Male,28,Software Engineer,83056,Single,Delhi,Delhi,Premium,Skincare,Cash On Delivery,64
+CUS0792,Priya,Gupta,Male,36,Business Owner,63593,Married,Chennai,Tamil Nadu,New,Fitness,Debit Card,63
+CUS0793,Aisha,Singh,Male,39,Doctor,185144,Married,Mumbai,Maharashtra,Regular,Skincare,Debit Card,63
+CUS0794,Kiran,Patel,Male,32,Teacher,116637,Married,Delhi,Delhi,New,Groceries,Cash On Delivery,41
+CUS0795,Ananya,Verma,Female,41,Doctor,83551,Married,Mumbai,Maharashtra,New,Fitness,Credit Card,99
+CUS0796,Kiran,Reddy,Male,44,Doctor,217484,Single,Hyderabad,Telangana,Premium,Fitness,Debit Card,43
+CUS0797,Aisha,Patel,Male,53,Homemaker,142057,Single,Pune,Maharashtra,Regular,Home Appliances,Debit Card,43
+CUS0798,Rahul,Patel,Male,35,Sales Executive,87216,Single,Mumbai,Maharashtra,Regular,Groceries,Credit Card,92
+CUS0799,Rohit,Joshi,Female,26,Sales Executive,69995,Single,Bangalore,Karnataka,New,Groceries,Credit Card,51
+CUS0800,Rohit,Nair,Female,47,Business Owner,221800,Single,Chennai,Tamil Nadu,Regular,Electronics,Cash On Delivery,91
+CUS0801,Priya,Gupta,Male,30,Software Engineer,32613,Single,Chennai,Tamil Nadu,Regular,Groceries,UPI,30
+CUS0802,Neha,Verma,Male,52,Homemaker,27084,Single,Delhi,Delhi,Premium,Skincare,UPI,67
+CUS0803,Arjun,Iyer,Male,55,Business Owner,139589,Single,Delhi,Delhi,Premium,Fitness,UPI,31
+CUS0804,Sneha,Gupta,Male,34,Sales Executive,81363,Married,Bangalore,Karnataka,Regular,Electronics,Cash On Delivery,66
+CUS0805,Arjun,Kumar,Male,41,Doctor,198975,Married,Hyderabad,Telangana,Regular,Fitness,Debit Card,50
+CUS0806,Kiran,Patel,Female,29,Software Engineer,41457,Married,Bangalore,Karnataka,New,Groceries,UPI,34
+CUS0807,Neha,Verma,Male,54,Business Owner,29487,Married,Mumbai,Maharashtra,New,Groceries,Cash On Delivery,35
+CUS0808,Kiran,Verma,Female,38,Government Employee,220084,Single,Bangalore,Karnataka,Regular,Skincare,Credit Card,11
+CUS0809,Arjun,Reddy,Female,55,Business Owner,124156,Married,Bangalore,Karnataka,Regular,Skincare,Debit Card,56
+CUS0810,Arjun,Iyer,Male,56,Business Owner,40811,Married,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,64
+CUS0811,Neha,Patel,Female,28,Sales Executive,50859,Married,Pune,Maharashtra,Premium,Groceries,UPI,14
+CUS0812,Rahul,Nair,Male,52,Business Owner,29704,Married,Chennai,Tamil Nadu,Regular,Electronics,UPI,65
+CUS0813,Neha,Sharma,Female,26,Sales Executive,92566,Single,Chennai,Tamil Nadu,Premium,Home Appliances,Credit Card,44
+CUS0814,Rahul,Nair,Female,34,Sales Executive,55523,Married,Hyderabad,Telangana,Premium,Home Appliances,UPI,57
+CUS0815,Vikram,Kumar,Female,31,Sales Executive,55335,Married,Mumbai,Maharashtra,New,Skincare,Credit Card,69
+CUS0816,Rahul,Verma,Male,55,Homemaker,44655,Single,Pune,Maharashtra,New,Electronics,Debit Card,30
+CUS0817,Sneha,Sharma,Female,59,Homemaker,78886,Single,Mumbai,Maharashtra,Regular,Home Appliances,UPI,16
+CUS0818,Ananya,Iyer,Female,49,Government Employee,192299,Single,Hyderabad,Telangana,Regular,Fashion,UPI,89
+CUS0819,Rahul,Joshi,Male,33,Teacher,42043,Single,Pune,Maharashtra,Regular,Groceries,UPI,4
+CUS0820,Rohit,Reddy,Male,34,Software Engineer,88634,Married,Hyderabad,Telangana,Premium,Fashion,UPI,43
+CUS0821,Vikram,Nair,Female,54,Homemaker,138644,Single,Bangalore,Karnataka,Regular,Electronics,Credit Card,68
+CUS0822,Kiran,Nair,Male,59,Homemaker,45661,Single,Bangalore,Karnataka,Regular,Home Appliances,Credit Card,72
+CUS0823,Kiran,Verma,Male,22,Student,13235,Married,Bangalore,Karnataka,New,Groceries,UPI,26
+CUS0824,Ananya,Kumar,Male,32,Sales Executive,111142,Married,Delhi,Delhi,Regular,Fashion,Debit Card,96
+CUS0825,Sneha,Sharma,Female,38,Government Employee,89721,Single,Hyderabad,Telangana,New,Electronics,Credit Card,90
+CUS0826,Rahul,Sharma,Female,46,Doctor,140256,Single,Hyderabad,Telangana,New,Groceries,Debit Card,10
+CUS0827,Ananya,Verma,Female,54,Business Owner,32192,Married,Bangalore,Karnataka,New,Skincare,Credit Card,86
+CUS0828,Priya,Iyer,Male,45,Government Employee,118058,Married,Mumbai,Maharashtra,Premium,Skincare,Debit Card,92
+CUS0829,Arjun,Reddy,Female,22,Student,19821,Single,Bangalore,Karnataka,New,Groceries,Cash On Delivery,35
+CUS0830,Ananya,Iyer,Male,48,Doctor,151153,Single,Bangalore,Karnataka,New,Home Appliances,UPI,88
+CUS0831,Ananya,Reddy,Female,37,Business Owner,163372,Single,Pune,Maharashtra,New,Electronics,Cash On Delivery,90
+CUS0832,Neha,Verma,Male,19,Student,33080,Single,Chennai,Tamil Nadu,Premium,Fitness,Cash On Delivery,62
+CUS0833,Rahul,Joshi,Female,32,Software Engineer,117905,Single,Chennai,Tamil Nadu,Premium,Electronics,Debit Card,74
+CUS0834,Neha,Joshi,Female,20,Student,23939,Single,Bangalore,Karnataka,Regular,Fitness,Credit Card,82
+CUS0835,Kiran,Nair,Male,44,Government Employee,75897,Married,Mumbai,Maharashtra,Regular,Fashion,UPI,78
+CUS0836,Priya,Nair,Male,46,Doctor,239515,Single,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,8
+CUS0837,Vikram,Gupta,Male,49,Government Employee,130954,Married,Mumbai,Maharashtra,Regular,Fashion,Cash On Delivery,89
+CUS0838,Rohit,Iyer,Female,22,Student,34534,Single,Chennai,Tamil Nadu,Regular,Electronics,UPI,37
+CUS0839,Arjun,Verma,Female,26,Software Engineer,92072,Single,Chennai,Tamil Nadu,New,Fitness,Cash On Delivery,53
+CUS0840,Kiran,Gupta,Female,27,Software Engineer,61939,Single,Chennai,Tamil Nadu,Premium,Home Appliances,Debit Card,94
+CUS0841,Neha,Iyer,Male,46,Doctor,163143,Married,Hyderabad,Telangana,Regular,Skincare,Debit Card,31
+CUS0842,Rahul,Singh,Female,22,Student,22982,Married,Chennai,Tamil Nadu,Regular,Groceries,Credit Card,80
+CUS0843,Aisha,Reddy,Male,24,Software Engineer,42380,Married,Hyderabad,Telangana,Regular,Electronics,Debit Card,45
+CUS0844,Priya,Sharma,Male,50,Business Owner,191160,Single,Delhi,Delhi,Premium,Electronics,Debit Card,75
+CUS0845,Rohit,Iyer,Male,36,Doctor,135702,Single,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,62
+CUS0846,Kiran,Iyer,Female,60,Business Owner,124408,Married,Pune,Maharashtra,Regular,Electronics,Debit Card,70
+CUS0847,Sneha,Nair,Female,18,Student,32139,Single,Delhi,Delhi,Regular,Skincare,Credit Card,69
+CUS0848,Kiran,Verma,Male,52,Homemaker,35695,Single,Delhi,Delhi,Regular,Home Appliances,Cash On Delivery,7
+CUS0849,Vikram,Sharma,Male,48,Business Owner,238560,Married,Mumbai,Maharashtra,New,Fitness,Debit Card,79
+CUS0850,Ananya,Verma,Female,48,Business Owner,180640,Single,Pune,Maharashtra,Regular,Fashion,Credit Card,100
+CUS0851,Aisha,Sharma,Male,25,Software Engineer,55700,Married,Pune,Maharashtra,Regular,Fashion,Debit Card,98
+CUS0852,Rahul,Reddy,Male,23,Student,12240,Single,Delhi,Delhi,New,Electronics,UPI,86
+CUS0853,Priya,Kumar,Male,44,Doctor,209833,Married,Bangalore,Karnataka,Premium,Skincare,Cash On Delivery,97
+CUS0854,Ananya,Gupta,Female,44,Business Owner,247628,Single,Delhi,Delhi,Regular,Fitness,Credit Card,37
+CUS0855,Vikram,Gupta,Male,36,Doctor,243566,Single,Hyderabad,Telangana,New,Groceries,UPI,95
+CUS0856,Sneha,Patel,Female,37,Government Employee,189942,Married,Mumbai,Maharashtra,Premium,Electronics,Credit Card,3
+CUS0857,Ananya,Singh,Male,33,Teacher,90342,Married,Hyderabad,Telangana,Premium,Skincare,Credit Card,40
+CUS0858,Rohit,Reddy,Male,29,Teacher,37466,Married,Delhi,Delhi,Regular,Groceries,Cash On Delivery,5
+CUS0859,Rahul,Verma,Female,31,Sales Executive,76963,Married,Bangalore,Karnataka,New,Fashion,UPI,43
+CUS0860,Neha,Joshi,Male,23,Student,20213,Married,Pune,Maharashtra,Regular,Skincare,Debit Card,52
+CUS0861,Sneha,Patel,Female,33,Sales Executive,46014,Married,Hyderabad,Telangana,Regular,Groceries,Debit Card,40
+CUS0862,Kiran,Patel,Male,60,Business Owner,110011,Single,Mumbai,Maharashtra,Premium,Home Appliances,Credit Card,48
+CUS0863,Vikram,Gupta,Female,37,Business Owner,145804,Single,Delhi,Delhi,Premium,Electronics,Debit Card,29
+CUS0864,Arjun,Sharma,Male,42,Doctor,243064,Married,Mumbai,Maharashtra,Premium,Groceries,Credit Card,87
+CUS0865,Sneha,Patel,Female,19,Student,21381,Married,Chennai,Tamil Nadu,Premium,Skincare,Debit Card,19
+CUS0866,Rohit,Iyer,Male,37,Doctor,231224,Married,Mumbai,Maharashtra,Regular,Fashion,Cash On Delivery,59
+CUS0867,Aisha,Sharma,Male,51,Homemaker,88806,Single,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,18
+CUS0868,Rahul,Verma,Male,58,Business Owner,62160,Married,Hyderabad,Telangana,Premium,Electronics,Cash On Delivery,59
+CUS0869,Vikram,Patel,Female,41,Doctor,179258,Married,Hyderabad,Telangana,Regular,Fitness,UPI,55
+CUS0870,Priya,Nair,Male,50,Government Employee,203787,Single,Bangalore,Karnataka,New,Fashion,Cash On Delivery,30
+CUS0871,Rahul,Joshi,Female,35,Software Engineer,75089,Single,Delhi,Delhi,Premium,Fitness,UPI,43
+CUS0872,Neha,Gupta,Male,31,Sales Executive,119224,Married,Bangalore,Karnataka,Premium,Skincare,UPI,44
+CUS0873,Aisha,Kumar,Female,40,Business Owner,215297,Married,Chennai,Tamil Nadu,New,Electronics,Debit Card,8
+CUS0874,Aisha,Gupta,Male,22,Student,23022,Single,Pune,Maharashtra,Regular,Fashion,Cash On Delivery,53
+CUS0875,Sneha,Patel,Male,32,Teacher,99723,Married,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,30
+CUS0876,Aisha,Reddy,Male,22,Student,22218,Single,Chennai,Tamil Nadu,New,Skincare,Credit Card,84
+CUS0877,Vikram,Patel,Male,24,Teacher,68034,Married,Bangalore,Karnataka,Regular,Fashion,UPI,44
+CUS0878,Kiran,Kumar,Female,28,Sales Executive,75725,Married,Mumbai,Maharashtra,Regular,Skincare,Credit Card,20
+CUS0879,Rohit,Kumar,Female,26,Software Engineer,97839,Single,Chennai,Tamil Nadu,Regular,Fashion,Credit Card,37
+CUS0880,Arjun,Kumar,Male,38,Business Owner,171110,Single,Hyderabad,Telangana,Regular,Groceries,Cash On Delivery,95
+CUS0881,Priya,Iyer,Male,32,Software Engineer,50930,Single,Pune,Maharashtra,Regular,Home Appliances,Credit Card,41
+CUS0882,Rahul,Kumar,Male,26,Teacher,46324,Single,Delhi,Delhi,Premium,Electronics,Debit Card,97
+CUS0883,Ananya,Singh,Male,41,Government Employee,216553,Single,Chennai,Tamil Nadu,Regular,Home Appliances,Cash On Delivery,17
+CUS0884,Kiran,Joshi,Female,57,Business Owner,126821,Single,Delhi,Delhi,Premium,Skincare,UPI,83
+CUS0885,Kiran,Sharma,Male,35,Software Engineer,71488,Married,Pune,Maharashtra,Regular,Fitness,UPI,66
+CUS0886,Rahul,Kumar,Male,47,Government Employee,54580,Married,Chennai,Tamil Nadu,Regular,Home Appliances,Credit Card,67
+CUS0887,Priya,Verma,Female,49,Doctor,245821,Single,Bangalore,Karnataka,Regular,Fashion,Credit Card,25
+CUS0888,Neha,Joshi,Male,54,Homemaker,53043,Single,Pune,Maharashtra,Regular,Fashion,Credit Card,16
+CUS0889,Sneha,Verma,Male,58,Homemaker,144667,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,74
+CUS0890,Rohit,Patel,Female,54,Business Owner,30045,Single,Bangalore,Karnataka,Regular,Skincare,Credit Card,29
+CUS0891,Vikram,Gupta,Male,50,Business Owner,118985,Single,Delhi,Delhi,Premium,Groceries,Credit Card,88
+CUS0892,Priya,Iyer,Female,36,Business Owner,72338,Single,Hyderabad,Telangana,Premium,Electronics,UPI,67
+CUS0893,Priya,Singh,Male,55,Homemaker,74376,Married,Mumbai,Maharashtra,Regular,Groceries,Cash On Delivery,36
+CUS0894,Aisha,Patel,Female,52,Homemaker,88944,Single,Delhi,Delhi,New,Fashion,Credit Card,21
+CUS0895,Ananya,Sharma,Male,37,Doctor,98575,Single,Pune,Maharashtra,Regular,Fashion,Credit Card,55
+CUS0896,Sneha,Nair,Female,49,Government Employee,182328,Single,Chennai,Tamil Nadu,Premium,Groceries,Cash On Delivery,42
+CUS0897,Sneha,Patel,Male,48,Government Employee,238134,Married,Mumbai,Maharashtra,Regular,Fitness,Debit Card,42
+CUS0898,Arjun,Gupta,Female,45,Business Owner,127372,Married,Mumbai,Maharashtra,Regular,Fitness,Credit Card,42
+CUS0899,Rohit,Verma,Female,60,Homemaker,41235,Married,Delhi,Delhi,New,Fitness,Cash On Delivery,94
+CUS0900,Vikram,Gupta,Female,34,Software Engineer,89748,Single,Mumbai,Maharashtra,Regular,Fitness,Credit Card,45
+CUS0901,Sneha,Sharma,Female,24,Software Engineer,71370,Married,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,79
+CUS0902,Vikram,Iyer,Male,54,Homemaker,61112,Married,Mumbai,Maharashtra,New,Skincare,Cash On Delivery,12
+CUS0903,Ananya,Iyer,Female,54,Business Owner,85124,Single,Hyderabad,Telangana,Regular,Skincare,UPI,84
+CUS0904,Rohit,Sharma,Male,29,Sales Executive,118745,Single,Chennai,Tamil Nadu,Regular,Electronics,Debit Card,11
+CUS0905,Aisha,Nair,Female,26,Software Engineer,62861,Single,Delhi,Delhi,Regular,Fitness,UPI,72
+CUS0906,Neha,Singh,Male,36,Government Employee,79567,Single,Delhi,Delhi,Regular,Skincare,Cash On Delivery,86
+CUS0907,Ananya,Reddy,Male,59,Business Owner,128185,Married,Delhi,Delhi,Regular,Home Appliances,UPI,16
+CUS0908,Sneha,Kumar,Female,45,Business Owner,94684,Single,Chennai,Tamil Nadu,Regular,Groceries,Cash On Delivery,83
+CUS0909,Neha,Patel,Male,18,Student,16706,Single,Pune,Maharashtra,New,Groceries,Cash On Delivery,18
+CUS0910,Vikram,Kumar,Female,23,Student,32347,Married,Delhi,Delhi,Regular,Electronics,Debit Card,3
+CUS0911,Vikram,Kumar,Male,37,Business Owner,124199,Married,Chennai,Tamil Nadu,Regular,Fitness,Cash On Delivery,38
+CUS0912,Vikram,Patel,Male,19,Student,20680,Single,Delhi,Delhi,Regular,Fitness,Cash On Delivery,67
+CUS0913,Sneha,Sharma,Female,38,Doctor,187164,Married,Delhi,Delhi,Regular,Electronics,Debit Card,57
+CUS0914,Aisha,Joshi,Female,55,Homemaker,117069,Single,Mumbai,Maharashtra,New,Fashion,UPI,54
+CUS0915,Rohit,Kumar,Female,49,Doctor,168388,Married,Chennai,Tamil Nadu,Regular,Home Appliances,Debit Card,16
+CUS0916,Rohit,Sharma,Male,33,Teacher,114432,Married,Hyderabad,Telangana,Regular,Fitness,Debit Card,31
+CUS0917,Kiran,Gupta,Female,30,Sales Executive,41698,Married,Mumbai,Maharashtra,Regular,Electronics,UPI,49
+CUS0918,Neha,Kumar,Male,49,Government Employee,184898,Married,Mumbai,Maharashtra,Regular,Fashion,Debit Card,94
+CUS0919,Sneha,Iyer,Female,18,Student,10944,Married,Mumbai,Maharashtra,Regular,Groceries,Debit Card,80
+CUS0920,Rahul,Joshi,Male,30,Teacher,36241,Single,Bangalore,Karnataka,New,Skincare,Cash On Delivery,48
+CUS0921,Sneha,Sharma,Male,24,Sales Executive,98974,Married,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,5
+CUS0922,Kiran,Kumar,Female,36,Doctor,173401,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,77
+CUS0923,Kiran,Iyer,Female,43,Government Employee,137730,Single,Hyderabad,Telangana,Premium,Electronics,Debit Card,85
+CUS0924,Priya,Sharma,Male,45,Business Owner,145245,Single,Bangalore,Karnataka,New,Home Appliances,Cash On Delivery,6
+CUS0925,Vikram,Sharma,Female,49,Doctor,176288,Married,Hyderabad,Telangana,Regular,Fitness,Credit Card,27
+CUS0926,Vikram,Nair,Female,20,Student,13208,Married,Mumbai,Maharashtra,Premium,Electronics,Credit Card,66
+CUS0927,Kiran,Sharma,Male,25,Teacher,58040,Married,Hyderabad,Telangana,New,Electronics,Debit Card,94
+CUS0928,Rahul,Joshi,Female,37,Doctor,206744,Single,Pune,Maharashtra,Premium,Home Appliances,Debit Card,33
+CUS0929,Sneha,Sharma,Male,51,Business Owner,127675,Married,Bangalore,Karnataka,New,Skincare,Credit Card,31
+CUS0930,Arjun,Nair,Female,58,Business Owner,49429,Married,Mumbai,Maharashtra,Premium,Home Appliances,Cash On Delivery,16
+CUS0931,Sneha,Sharma,Female,20,Student,28845,Single,Pune,Maharashtra,Regular,Home Appliances,Cash On Delivery,3
+CUS0932,Rohit,Joshi,Male,26,Sales Executive,45680,Married,Chennai,Tamil Nadu,Regular,Electronics,UPI,67
+CUS0933,Rohit,Singh,Female,41,Business Owner,243950,Married,Bangalore,Karnataka,Premium,Groceries,UPI,5
+CUS0934,Sneha,Singh,Male,39,Government Employee,182880,Single,Bangalore,Karnataka,New,Home Appliances,Debit Card,9
+CUS0935,Vikram,Iyer,Male,25,Teacher,71702,Single,Mumbai,Maharashtra,Regular,Home Appliances,Cash On Delivery,12
+CUS0936,Neha,Iyer,Male,50,Doctor,92493,Married,Bangalore,Karnataka,Regular,Electronics,Debit Card,98
+CUS0937,Arjun,Joshi,Male,27,Sales Executive,119949,Married,Bangalore,Karnataka,Premium,Groceries,Cash On Delivery,38
+CUS0938,Vikram,Gupta,Male,19,Student,13460,Single,Bangalore,Karnataka,Premium,Fashion,Credit Card,82
+CUS0939,Sneha,Iyer,Female,37,Doctor,194223,Single,Hyderabad,Telangana,Premium,Groceries,Debit Card,23
+CUS0940,Kiran,Reddy,Male,49,Business Owner,129526,Single,Delhi,Delhi,Regular,Groceries,Debit Card,94
+CUS0941,Priya,Gupta,Male,34,Sales Executive,37253,Single,Delhi,Delhi,Premium,Fitness,UPI,3
+CUS0942,Ananya,Nair,Female,51,Homemaker,90287,Single,Pune,Maharashtra,Regular,Groceries,UPI,62
+CUS0943,Kiran,Sharma,Male,40,Business Owner,205112,Single,Chennai,Tamil Nadu,Premium,Fitness,Cash On Delivery,71
+CUS0944,Arjun,Singh,Male,23,Student,26384,Single,Hyderabad,Telangana,Regular,Home Appliances,Debit Card,99
+CUS0945,Ananya,Singh,Female,48,Government Employee,237816,Married,Bangalore,Karnataka,New,Electronics,Cash On Delivery,63
+CUS0946,Neha,Gupta,Female,48,Doctor,233452,Single,Delhi,Delhi,Premium,Electronics,Cash On Delivery,13
+CUS0947,Arjun,Nair,Female,24,Software Engineer,55147,Single,Pune,Maharashtra,Premium,Skincare,UPI,48
+CUS0948,Vikram,Patel,Female,33,Software Engineer,99351,Single,Bangalore,Karnataka,Premium,Groceries,UPI,18
+CUS0949,Sneha,Singh,Female,57,Business Owner,42061,Married,Bangalore,Karnataka,New,Electronics,UPI,75
+CUS0950,Aisha,Reddy,Female,33,Software Engineer,104609,Single,Delhi,Delhi,New,Groceries,Credit Card,11
+CUS0951,Rohit,Verma,Male,38,Business Owner,148979,Single,Mumbai,Maharashtra,New,Home Appliances,Debit Card,65
+CUS0952,Sneha,Gupta,Female,53,Business Owner,113790,Single,Chennai,Tamil Nadu,New,Fitness,UPI,95
+CUS0953,Arjun,Reddy,Male,23,Student,10577,Married,Bangalore,Karnataka,New,Home Appliances,Cash On Delivery,52
+CUS0954,Arjun,Singh,Male,39,Doctor,177125,Married,Bangalore,Karnataka,New,Groceries,UPI,20
+CUS0955,Arjun,Kumar,Female,49,Doctor,249498,Single,Chennai,Tamil Nadu,New,Home Appliances,Credit Card,29
+CUS0956,Sneha,Iyer,Female,38,Business Owner,78270,Married,Mumbai,Maharashtra,Premium,Fashion,Cash On Delivery,75
+CUS0957,Aisha,Singh,Female,41,Government Employee,212883,Married,Delhi,Delhi,Regular,Home Appliances,Debit Card,52
+CUS0958,Sneha,Joshi,Female,28,Teacher,36733,Single,Mumbai,Maharashtra,Regular,Electronics,Cash On Delivery,35
+CUS0959,Arjun,Joshi,Female,41,Government Employee,190366,Single,Delhi,Delhi,Regular,Fashion,Debit Card,58
+CUS0960,Kiran,Joshi,Female,40,Government Employee,137353,Single,Hyderabad,Telangana,Regular,Groceries,UPI,29
+CUS0961,Sneha,Reddy,Male,51,Homemaker,146699,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,20
+CUS0962,Sneha,Iyer,Female,44,Doctor,90581,Married,Hyderabad,Telangana,Regular,Skincare,UPI,95
+CUS0963,Arjun,Reddy,Female,49,Business Owner,243717,Married,Mumbai,Maharashtra,Regular,Skincare,Debit Card,68
+CUS0964,Rohit,Iyer,Male,30,Software Engineer,65142,Single,Bangalore,Karnataka,Regular,Electronics,UPI,69
+CUS0965,Vikram,Patel,Female,24,Sales Executive,36244,Single,Pune,Maharashtra,Regular,Fashion,Cash On Delivery,57
+CUS0966,Aisha,Joshi,Male,31,Sales Executive,90635,Married,Pune,Maharashtra,Regular,Skincare,UPI,6
+CUS0967,Ananya,Patel,Male,36,Government Employee,72594,Single,Hyderabad,Telangana,Regular,Electronics,UPI,40
+CUS0968,Neha,Verma,Female,44,Government Employee,104601,Single,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,88
+CUS0969,Ananya,Iyer,Male,39,Doctor,78656,Married,Chennai,Tamil Nadu,New,Electronics,Debit Card,70
+CUS0970,Rahul,Gupta,Female,38,Government Employee,118317,Single,Chennai,Tamil Nadu,Premium,Fashion,UPI,18
+CUS0971,Kiran,Reddy,Male,20,Student,28560,Single,Chennai,Tamil Nadu,Regular,Groceries,Debit Card,24
+CUS0972,Ananya,Nair,Female,45,Government Employee,223293,Married,Chennai,Tamil Nadu,Regular,Skincare,UPI,62
+CUS0973,Rohit,Nair,Female,41,Government Employee,128858,Married,Bangalore,Karnataka,Regular,Electronics,UPI,80
+CUS0974,Sneha,Joshi,Male,27,Sales Executive,63625,Single,Delhi,Delhi,Regular,Groceries,UPI,68
+CUS0975,Arjun,Singh,Female,18,Student,25754,Single,Delhi,Delhi,New,Groceries,Credit Card,98
+CUS0976,Arjun,Reddy,Male,48,Business Owner,169761,Single,Bangalore,Karnataka,Premium,Fitness,UPI,35
+CUS0977,Sneha,Joshi,Female,51,Business Owner,147352,Single,Chennai,Tamil Nadu,Regular,Fashion,UPI,66
+CUS0978,Rahul,Reddy,Male,37,Government Employee,178712,Married,Bangalore,Karnataka,Regular,Fitness,Cash On Delivery,63
+CUS0979,Neha,Singh,Male,53,Business Owner,57304,Single,Pune,Maharashtra,Regular,Fitness,UPI,50
+CUS0980,Aisha,Nair,Male,30,Software Engineer,73634,Single,Bangalore,Karnataka,Regular,Home Appliances,Debit Card,18
+CUS0981,Kiran,Gupta,Male,34,Sales Executive,116956,Single,Pune,Maharashtra,New,Fitness,Credit Card,15
+CUS0982,Neha,Iyer,Female,29,Sales Executive,32237,Married,Chennai,Tamil Nadu,Regular,Fitness,Credit Card,78
+CUS0983,Arjun,Nair,Male,32,Teacher,65790,Married,Mumbai,Maharashtra,Regular,Electronics,UPI,61
+CUS0984,Vikram,Verma,Male,23,Student,22375,Single,Pune,Maharashtra,Regular,Fashion,UPI,93
+CUS0985,Rohit,Gupta,Female,58,Business Owner,26619,Married,Chennai,Tamil Nadu,New,Electronics,UPI,79
+CUS0986,Arjun,Gupta,Female,47,Business Owner,95765,Single,Bangalore,Karnataka,Regular,Fashion,UPI,24
+CUS0987,Kiran,Joshi,Male,48,Doctor,203290,Married,Mumbai,Maharashtra,Regular,Groceries,Debit Card,44
+CUS0988,Priya,Nair,Male,49,Government Employee,200643,Married,Bangalore,Karnataka,Regular,Skincare,UPI,68
+CUS0989,Aisha,Joshi,Female,19,Student,23854,Married,Delhi,Delhi,New,Home Appliances,Debit Card,57
+CUS0990,Rahul,Joshi,Male,40,Doctor,193191,Single,Chennai,Tamil Nadu,Premium,Home Appliances,Debit Card,51
+CUS0991,Aisha,Iyer,Female,41,Government Employee,246475,Single,Bangalore,Karnataka,Regular,Electronics,Cash On Delivery,28
+CUS0992,Arjun,Patel,Female,58,Business Owner,25302,Married,Hyderabad,Telangana,Premium,Groceries,Credit Card,75
+CUS0993,Aisha,Kumar,Male,56,Business Owner,27438,Married,Delhi,Delhi,Premium,Electronics,UPI,1
+CUS0994,Neha,Verma,Female,25,Sales Executive,33232,Single,Bangalore,Karnataka,New,Groceries,Credit Card,15
+CUS0995,Neha,Gupta,Male,54,Business Owner,27263,Single,Delhi,Delhi,Regular,Home Appliances,Credit Card,37
+CUS0996,Kiran,Verma,Female,20,Student,19558,Single,Delhi,Delhi,Premium,Fashion,Credit Card,36
+CUS0997,Ananya,Reddy,Female,38,Government Employee,194593,Married,Bangalore,Karnataka,Regular,Skincare,Debit Card,69
+CUS0998,Kiran,Nair,Female,55,Business Owner,109899,Married,Pune,Maharashtra,Regular,Skincare,UPI,62
+CUS0999,Rahul,Iyer,Male,44,Doctor,60124,Married,Mumbai,Maharashtra,New,Fitness,UPI,44
+CUS1000,Kiran,Gupta,Male,24,Teacher,86108,Single,Delhi,Delhi,Premium,Electronics,Cash On Delivery,21

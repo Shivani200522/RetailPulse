@@ -1,0 +1,11 @@
+{
+    "payment_methods": {
+        "UPI": 50,
+        "Credit Card": 20,
+        "Debit Card": 15,
+        "Net Banking": 5,
+        "Cash On Delivery": 10
+    },
+
+    "payment_success_rate": 0.97
+}

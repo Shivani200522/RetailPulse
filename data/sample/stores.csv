@@ -1,0 +1,7 @@
+store_id,city,state,region
+STR001,Bangalore,Karnataka,South
+STR002,Hyderabad,Telangana,South
+STR003,Mumbai,Maharashtra,West
+STR004,Delhi,Delhi,North
+STR005,Chennai,Tamil Nadu,South
+STR006,Pune,Maharashtra,West
