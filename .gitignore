@@ -1,41 +1,24 @@
+# Virtual Environment
+retailpulse_env/
+.venv/
+
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual Environment
-.venv/
+*.pyc
 
 # Environment Variables
 .env
 
-# IDE
+# VS Code
 .vscode/
-.idea/
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Python cache
-.pytest_cache/
-.mypy_cache/
+# Data files
+data/raw/
+data/processed/
 
 # Logs
 *.log
 
-# Data
-data/raw/
-data/processed/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Airflow
-airflow/logs/
-
-# Docker
-*.pid
-
-# Power BI
-*.pbix.lock
+# OS files
+.DS_Store
+Thumbs.db
