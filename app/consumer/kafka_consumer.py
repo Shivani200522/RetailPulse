@@ -1,40 +1,25 @@
+from kafka import KafkaConsumer
 import json
-from confluent_kafka import Consumer
 
+from app.warehouse.raw_repository import save_raw_event
+from app.database.order_repository import insert_order
 
-consumer = Consumer(
-    {
-        "bootstrap.servers": "localhost:9092",
-        "group.id": "retailpulse-consumer",
-        "auto.offset.reset": "earliest",
-    }
+consumer = KafkaConsumer(
+    "retail-orders",
+    bootstrap_servers="localhost:9092",
+    auto_offset_reset="latest",
+    value_deserializer=lambda m: json.loads(m.decode("utf-8"))
 )
 
-consumer.subscribe(["retail-orders"])
-
-print("RetailPulse Consumer Started...\n")
+print("Consumer Started...\n")
 
 try:
-    while True:
+    for message in consumer:
+        event = message.value
 
-        msg = consumer.poll(1.0)
+        insert_order(event)
 
-        if msg is None:
-            continue
-
-        if msg.error():
-            print(msg.error())
-            continue
-
-        event = json.loads(msg.value().decode("utf-8"))
-
-        print("=" * 60)
-        print(f"Order : {event['order_id']}")
-        print(f"Customer : {event['customer_id']}")
-        print(f"Product : {event['product_id']}")
-        print(f"Amount : ₹{event['final_price']}")
-        print(f"Payment : {event['payment_status']}")
-        print("=" * 60)
+        print(f"Saved Raw Event: {event['order_id']}")
 
 except KeyboardInterrupt:
     print("\nStopping Consumer...")
